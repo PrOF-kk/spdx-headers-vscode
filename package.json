@@ -1,0 +1,260 @@
+{
+    "name": "spdx-headers-vscode",
+    "displayName": "SPDX Headers",
+    "description": "Quick SPDX header autocompletion",
+    "author": {
+        "name": "Valerio Colella",
+        "url": "https://github.com/PrOF-kk"
+    },
+    "publisher": "TEMP",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/PrOF-kk/spdx-headers-vscode"
+    },
+    "bugs": {
+        "url": "https://github.com/PrOF-kk/spdx-headers-vscode/issues"
+    },
+    "keywords": [
+        "license snippets",
+        "software license",
+        "spdx license",
+        "spdx"
+    ],
+    "version": "1.0.0",
+    "license": "SEE LICENSE IN LICENSE",
+    "engines": {
+        "vscode": "^1.60.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "icon": "",
+    "galleryBanner": {
+        "color": "#000000",
+        "theme": "dark"
+    },
+    "contributes": {
+        "snippets": [
+            {
+                "language": "abap",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "bat",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "bibtex",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "clojure",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "coffeescript",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "c",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "cpp",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "csharp",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "css",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "diff",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "dockerfile",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "fsharp",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "git-commit",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "git-rebase",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "go",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "groovy",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "handlebars",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "ini",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "java",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "json",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "jsonc",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "latex",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "less",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "lua",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "makefile",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "markdown",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "objective-c",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "objective-cpp",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "perl",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "perl6",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "php",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "plaintext",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "powershell",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "jade",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "python",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "r",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "razor",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "ruby",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "rust",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "scss",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "sass",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "shaderlab",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "shellscript",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "sql",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "swift",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "typescript",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "typescriptreact",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "tex",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "vb",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "xml",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "xsl",
+                "path": "./snippets/snippets.code-snippets"
+            },
+            {
+                "language": "yaml",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}

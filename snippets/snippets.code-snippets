@@ -1,0 +1,2222 @@
+{
+    "3dfx Glide License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Glide",
+        "description": "3dfx Glide License\nhttps://spdx.org/licenses/Glide.html",
+        "prefix": "SPDX-Glide"
+    },
+    "AMD's plpa_map.c License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: AMDPLPA",
+        "description": "AMD's plpa_map.c License\nhttps://spdx.org/licenses/AMDPLPA.html",
+        "prefix": "SPDX-AMDPLPA"
+    },
+    "ANTLR Software Rights Notice": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: ANTLR-PD",
+        "description": "ANTLR Software Rights Notice\nhttps://spdx.org/licenses/ANTLR-PD.html",
+        "prefix": "SPDX-ANTLR-PD"
+    },
+    "ANTLR Software Rights Notice with license fallback": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: ANTLR-PD-fallback",
+        "description": "ANTLR Software Rights Notice with license fallback\nhttps://spdx.org/licenses/ANTLR-PD-fallback.html",
+        "prefix": "SPDX-ANTLR-PD-fallback"
+    },
+    "Abstyles License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Abstyles",
+        "description": "Abstyles License\nhttps://spdx.org/licenses/Abstyles.html",
+        "prefix": "SPDX-Abstyles"
+    },
+    "Academic Free License v1.1": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: AFL-1.1",
+        "description": "Academic Free License v1.1\nhttps://spdx.org/licenses/AFL-1.1.html",
+        "prefix": "SPDX-AFL-1.1"
+    },
+    "Academic Free License v1.2": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: AFL-1.2",
+        "description": "Academic Free License v1.2\nhttps://spdx.org/licenses/AFL-1.2.html",
+        "prefix": "SPDX-AFL-1.2"
+    },
+    "Academic Free License v2.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: AFL-2.0",
+        "description": "Academic Free License v2.0\nhttps://spdx.org/licenses/AFL-2.0.html",
+        "prefix": "SPDX-AFL-2.0"
+    },
+    "Academic Free License v2.1": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: AFL-2.1",
+        "description": "Academic Free License v2.1\nhttps://spdx.org/licenses/AFL-2.1.html",
+        "prefix": "SPDX-AFL-2.1"
+    },
+    "Academic Free License v3.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: AFL-3.0",
+        "description": "Academic Free License v3.0\nhttps://spdx.org/licenses/AFL-3.0.html",
+        "prefix": "SPDX-AFL-3.0"
+    },
+    "Academy of Motion Picture Arts and Sciences BSD": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: AMPAS",
+        "description": "Academy of Motion Picture Arts and Sciences BSD\nhttps://spdx.org/licenses/AMPAS.html",
+        "prefix": "SPDX-AMPAS"
+    },
+    "Adaptive Public License 1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: APL-1.0",
+        "description": "Adaptive Public License 1.0\nhttps://spdx.org/licenses/APL-1.0.html",
+        "prefix": "SPDX-APL-1.0"
+    },
+    "Adobe Glyph List License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Adobe-Glyph",
+        "description": "Adobe Glyph List License\nhttps://spdx.org/licenses/Adobe-Glyph.html",
+        "prefix": "SPDX-Adobe-Glyph"
+    },
+    "Adobe Postscript AFM License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: APAFML",
+        "description": "Adobe Postscript AFM License\nhttps://spdx.org/licenses/APAFML.html",
+        "prefix": "SPDX-APAFML"
+    },
+    "Adobe Systems Incorporated Source Code License Agreement": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Adobe-2006",
+        "description": "Adobe Systems Incorporated Source Code License Agreement\nhttps://spdx.org/licenses/Adobe-2006.html",
+        "prefix": "SPDX-Adobe-2006"
+    },
+    "Affero General Public License v1.0 only": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: AGPL-1.0-only",
+        "description": "Affero General Public License v1.0 only\nhttps://spdx.org/licenses/AGPL-1.0-only.html",
+        "prefix": "SPDX-AGPL-1.0-only"
+    },
+    "Affero General Public License v1.0 or later": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: AGPL-1.0-or-later",
+        "description": "Affero General Public License v1.0 or later\nhttps://spdx.org/licenses/AGPL-1.0-or-later.html",
+        "prefix": "SPDX-AGPL-1.0-or-later"
+    },
+    "Afmparse License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Afmparse",
+        "description": "Afmparse License\nhttps://spdx.org/licenses/Afmparse.html",
+        "prefix": "SPDX-Afmparse"
+    },
+    "Aladdin Free Public License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Aladdin",
+        "description": "Aladdin Free Public License\nhttps://spdx.org/licenses/Aladdin.html",
+        "prefix": "SPDX-Aladdin"
+    },
+    "Amazon Digital Services License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: ADSL",
+        "description": "Amazon Digital Services License\nhttps://spdx.org/licenses/ADSL.html",
+        "prefix": "SPDX-ADSL"
+    },
+    "Apache License 1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Apache-1.0",
+        "description": "Apache License 1.0\nhttps://spdx.org/licenses/Apache-1.0.html",
+        "prefix": "SPDX-Apache-1.0"
+    },
+    "Apache License 1.1": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Apache-1.1",
+        "description": "Apache License 1.1\nhttps://spdx.org/licenses/Apache-1.1.html",
+        "prefix": "SPDX-Apache-1.1"
+    },
+    "Apache License 2.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Apache-2.0",
+        "description": "Apache License 2.0\nhttps://spdx.org/licenses/Apache-2.0.html",
+        "prefix": "SPDX-Apache-2.0"
+    },
+    "Apple MIT License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: AML",
+        "description": "Apple MIT License\nhttps://spdx.org/licenses/AML.html",
+        "prefix": "SPDX-AML"
+    },
+    "Apple Public Source License 1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: APSL-1.0",
+        "description": "Apple Public Source License 1.0\nhttps://spdx.org/licenses/APSL-1.0.html",
+        "prefix": "SPDX-APSL-1.0"
+    },
+    "Apple Public Source License 1.1": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: APSL-1.1",
+        "description": "Apple Public Source License 1.1\nhttps://spdx.org/licenses/APSL-1.1.html",
+        "prefix": "SPDX-APSL-1.1"
+    },
+    "Apple Public Source License 1.2": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: APSL-1.2",
+        "description": "Apple Public Source License 1.2\nhttps://spdx.org/licenses/APSL-1.2.html",
+        "prefix": "SPDX-APSL-1.2"
+    },
+    "Apple Public Source License 2.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: APSL-2.0",
+        "description": "Apple Public Source License 2.0\nhttps://spdx.org/licenses/APSL-2.0.html",
+        "prefix": "SPDX-APSL-2.0"
+    },
+    "Artistic License 1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Artistic-1.0",
+        "description": "Artistic License 1.0\nhttps://spdx.org/licenses/Artistic-1.0.html",
+        "prefix": "SPDX-Artistic-1.0"
+    },
+    "Artistic License 1.0 (Perl)": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Artistic-1.0-Perl",
+        "description": "Artistic License 1.0 (Perl)\nhttps://spdx.org/licenses/Artistic-1.0-Perl.html",
+        "prefix": "SPDX-Artistic-1.0-Perl"
+    },
+    "Artistic License 1.0 w/clause 8": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Artistic-1.0-cl8",
+        "description": "Artistic License 1.0 w/clause 8\nhttps://spdx.org/licenses/Artistic-1.0-cl8.html",
+        "prefix": "SPDX-Artistic-1.0-cl8"
+    },
+    "Artistic License 2.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Artistic-2.0",
+        "description": "Artistic License 2.0\nhttps://spdx.org/licenses/Artistic-2.0.html",
+        "prefix": "SPDX-Artistic-2.0"
+    },
+    "Attribution Assurance License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: AAL",
+        "description": "Attribution Assurance License\nhttps://spdx.org/licenses/AAL.html",
+        "prefix": "SPDX-AAL"
+    },
+    "BSD 1-Clause License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: BSD-1-Clause",
+        "description": "BSD 1-Clause License\nhttps://spdx.org/licenses/BSD-1-Clause.html",
+        "prefix": "SPDX-BSD-1-Clause"
+    },
+    "BSD 2-Clause \"Simplified\" License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: BSD-2-Clause",
+        "description": "BSD 2-Clause \"Simplified\" License\nhttps://spdx.org/licenses/BSD-2-Clause.html",
+        "prefix": "SPDX-BSD-2-Clause"
+    },
+    "BSD 2-Clause with views sentence": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: BSD-2-Clause-Views",
+        "description": "BSD 2-Clause with views sentence\nhttps://spdx.org/licenses/BSD-2-Clause-Views.html",
+        "prefix": "SPDX-BSD-2-Clause-Views"
+    },
+    "BSD 3-Clause \"New\" or \"Revised\" License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: BSD-3-Clause",
+        "description": "BSD 3-Clause \"New\" or \"Revised\" License\nhttps://spdx.org/licenses/BSD-3-Clause.html",
+        "prefix": "SPDX-BSD-3-Clause"
+    },
+    "BSD 3-Clause Clear License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: BSD-3-Clause-Clear",
+        "description": "BSD 3-Clause Clear License\nhttps://spdx.org/licenses/BSD-3-Clause-Clear.html",
+        "prefix": "SPDX-BSD-3-Clause-Clear"
+    },
+    "BSD 3-Clause Modification": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: BSD-3-Clause-Modification",
+        "description": "BSD 3-Clause Modification\nhttps://spdx.org/licenses/BSD-3-Clause-Modification.html",
+        "prefix": "SPDX-BSD-3-Clause-Modification"
+    },
+    "BSD 3-Clause No Military License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: BSD-3-Clause-No-Military-License",
+        "description": "BSD 3-Clause No Military License\nhttps://spdx.org/licenses/BSD-3-Clause-No-Military-License.html",
+        "prefix": "SPDX-BSD-3-Clause-No-Military-License"
+    },
+    "BSD 3-Clause No Nuclear License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: BSD-3-Clause-No-Nuclear-License",
+        "description": "BSD 3-Clause No Nuclear License\nhttps://spdx.org/licenses/BSD-3-Clause-No-Nuclear-License.html",
+        "prefix": "SPDX-BSD-3-Clause-No-Nuclear-License"
+    },
+    "BSD 3-Clause No Nuclear License 2014": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: BSD-3-Clause-No-Nuclear-License-2014",
+        "description": "BSD 3-Clause No Nuclear License 2014\nhttps://spdx.org/licenses/BSD-3-Clause-No-Nuclear-License-2014.html",
+        "prefix": "SPDX-BSD-3-Clause-No-Nuclear-License-2014"
+    },
+    "BSD 3-Clause No Nuclear Warranty": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: BSD-3-Clause-No-Nuclear-Warranty",
+        "description": "BSD 3-Clause No Nuclear Warranty\nhttps://spdx.org/licenses/BSD-3-Clause-No-Nuclear-Warranty.html",
+        "prefix": "SPDX-BSD-3-Clause-No-Nuclear-Warranty"
+    },
+    "BSD 3-Clause Open MPI variant": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: BSD-3-Clause-Open-MPI",
+        "description": "BSD 3-Clause Open MPI variant\nhttps://spdx.org/licenses/BSD-3-Clause-Open-MPI.html",
+        "prefix": "SPDX-BSD-3-Clause-Open-MPI"
+    },
+    "BSD 4 Clause Shortened": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: BSD-4-Clause-Shortened",
+        "description": "BSD 4 Clause Shortened\nhttps://spdx.org/licenses/BSD-4-Clause-Shortened.html",
+        "prefix": "SPDX-BSD-4-Clause-Shortened"
+    },
+    "BSD 4-Clause \"Original\" or \"Old\" License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: BSD-4-Clause",
+        "description": "BSD 4-Clause \"Original\" or \"Old\" License\nhttps://spdx.org/licenses/BSD-4-Clause.html",
+        "prefix": "SPDX-BSD-4-Clause"
+    },
+    "BSD Protection License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: BSD-Protection",
+        "description": "BSD Protection License\nhttps://spdx.org/licenses/BSD-Protection.html",
+        "prefix": "SPDX-BSD-Protection"
+    },
+    "BSD Source Code Attribution": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: BSD-Source-Code",
+        "description": "BSD Source Code Attribution\nhttps://spdx.org/licenses/BSD-Source-Code.html",
+        "prefix": "SPDX-BSD-Source-Code"
+    },
+    "BSD Zero Clause License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: 0BSD",
+        "description": "BSD Zero Clause License\nhttps://spdx.org/licenses/0BSD.html",
+        "prefix": "SPDX-0BSD"
+    },
+    "BSD with attribution": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: BSD-3-Clause-Attribution",
+        "description": "BSD with attribution\nhttps://spdx.org/licenses/BSD-3-Clause-Attribution.html",
+        "prefix": "SPDX-BSD-3-Clause-Attribution"
+    },
+    "BSD-2-Clause Plus Patent License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: BSD-2-Clause-Patent",
+        "description": "BSD-2-Clause Plus Patent License\nhttps://spdx.org/licenses/BSD-2-Clause-Patent.html",
+        "prefix": "SPDX-BSD-2-Clause-Patent"
+    },
+    "BSD-4-Clause (University of California-Specific)": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: BSD-4-Clause-UC",
+        "description": "BSD-4-Clause (University of California-Specific)\nhttps://spdx.org/licenses/BSD-4-Clause-UC.html",
+        "prefix": "SPDX-BSD-4-Clause-UC"
+    },
+    "Bahyph License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Bahyph",
+        "description": "Bahyph License\nhttps://spdx.org/licenses/Bahyph.html",
+        "prefix": "SPDX-Bahyph"
+    },
+    "Barr License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Barr",
+        "description": "Barr License\nhttps://spdx.org/licenses/Barr.html",
+        "prefix": "SPDX-Barr"
+    },
+    "Beerware License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Beerware",
+        "description": "Beerware License\nhttps://spdx.org/licenses/Beerware.html",
+        "prefix": "SPDX-Beerware"
+    },
+    "BitTorrent Open Source License v1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: BitTorrent-1.0",
+        "description": "BitTorrent Open Source License v1.0\nhttps://spdx.org/licenses/BitTorrent-1.0.html",
+        "prefix": "SPDX-BitTorrent-1.0"
+    },
+    "BitTorrent Open Source License v1.1": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: BitTorrent-1.1",
+        "description": "BitTorrent Open Source License v1.1\nhttps://spdx.org/licenses/BitTorrent-1.1.html",
+        "prefix": "SPDX-BitTorrent-1.1"
+    },
+    "Blue Oak Model License 1.0.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: BlueOak-1.0.0",
+        "description": "Blue Oak Model License 1.0.0\nhttps://spdx.org/licenses/BlueOak-1.0.0.html",
+        "prefix": "SPDX-BlueOak-1.0.0"
+    },
+    "Boost Software License 1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: BSL-1.0",
+        "description": "Boost Software License 1.0\nhttps://spdx.org/licenses/BSL-1.0.html",
+        "prefix": "SPDX-BSL-1.0"
+    },
+    "Borceux license": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Borceux",
+        "description": "Borceux license\nhttps://spdx.org/licenses/Borceux.html",
+        "prefix": "SPDX-Borceux"
+    },
+    "Business Source License 1.1": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: BUSL-1.1",
+        "description": "Business Source License 1.1\nhttps://spdx.org/licenses/BUSL-1.1.html",
+        "prefix": "SPDX-BUSL-1.1"
+    },
+    "CERN Open Hardware Licence Version 2 - Permissive": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CERN-OHL-P-2.0",
+        "description": "CERN Open Hardware Licence Version 2 - Permissive\nhttps://spdx.org/licenses/CERN-OHL-P-2.0.html",
+        "prefix": "SPDX-CERN-OHL-P-2.0"
+    },
+    "CERN Open Hardware Licence Version 2 - Strongly Reciprocal": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CERN-OHL-S-2.0",
+        "description": "CERN Open Hardware Licence Version 2 - Strongly Reciprocal\nhttps://spdx.org/licenses/CERN-OHL-S-2.0.html",
+        "prefix": "SPDX-CERN-OHL-S-2.0"
+    },
+    "CERN Open Hardware Licence Version 2 - Weakly Reciprocal": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CERN-OHL-W-2.0",
+        "description": "CERN Open Hardware Licence Version 2 - Weakly Reciprocal\nhttps://spdx.org/licenses/CERN-OHL-W-2.0.html",
+        "prefix": "SPDX-CERN-OHL-W-2.0"
+    },
+    "CERN Open Hardware Licence v1.1": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CERN-OHL-1.1",
+        "description": "CERN Open Hardware Licence v1.1\nhttps://spdx.org/licenses/CERN-OHL-1.1.html",
+        "prefix": "SPDX-CERN-OHL-1.1"
+    },
+    "CERN Open Hardware Licence v1.2": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CERN-OHL-1.2",
+        "description": "CERN Open Hardware Licence v1.2\nhttps://spdx.org/licenses/CERN-OHL-1.2.html",
+        "prefix": "SPDX-CERN-OHL-1.2"
+    },
+    "CMU License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: MIT-CMU",
+        "description": "CMU License\nhttps://spdx.org/licenses/MIT-CMU.html",
+        "prefix": "SPDX-MIT-CMU"
+    },
+    "CNRI Jython License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CNRI-Jython",
+        "description": "CNRI Jython License\nhttps://spdx.org/licenses/CNRI-Jython.html",
+        "prefix": "SPDX-CNRI-Jython"
+    },
+    "CNRI Python License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CNRI-Python",
+        "description": "CNRI Python License\nhttps://spdx.org/licenses/CNRI-Python.html",
+        "prefix": "SPDX-CNRI-Python"
+    },
+    "CNRI Python Open Source GPL Compatible License Agreement": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CNRI-Python-GPL-Compatible",
+        "description": "CNRI Python Open Source GPL Compatible License Agreement\nhttps://spdx.org/licenses/CNRI-Python-GPL-Compatible.html",
+        "prefix": "SPDX-CNRI-Python-GPL-Compatible"
+    },
+    "CUA Office Public License v1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CUA-OPL-1.0",
+        "description": "CUA Office Public License v1.0\nhttps://spdx.org/licenses/CUA-OPL-1.0.html",
+        "prefix": "SPDX-CUA-OPL-1.0"
+    },
+    "Caldera License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Caldera",
+        "description": "Caldera License\nhttps://spdx.org/licenses/Caldera.html",
+        "prefix": "SPDX-Caldera"
+    },
+    "CeCILL Free Software License Agreement v1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CECILL-1.0",
+        "description": "CeCILL Free Software License Agreement v1.0\nhttps://spdx.org/licenses/CECILL-1.0.html",
+        "prefix": "SPDX-CECILL-1.0"
+    },
+    "CeCILL Free Software License Agreement v1.1": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CECILL-1.1",
+        "description": "CeCILL Free Software License Agreement v1.1\nhttps://spdx.org/licenses/CECILL-1.1.html",
+        "prefix": "SPDX-CECILL-1.1"
+    },
+    "CeCILL Free Software License Agreement v2.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CECILL-2.0",
+        "description": "CeCILL Free Software License Agreement v2.0\nhttps://spdx.org/licenses/CECILL-2.0.html",
+        "prefix": "SPDX-CECILL-2.0"
+    },
+    "CeCILL Free Software License Agreement v2.1": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CECILL-2.1",
+        "description": "CeCILL Free Software License Agreement v2.1\nhttps://spdx.org/licenses/CECILL-2.1.html",
+        "prefix": "SPDX-CECILL-2.1"
+    },
+    "CeCILL-B Free Software License Agreement": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CECILL-B",
+        "description": "CeCILL-B Free Software License Agreement\nhttps://spdx.org/licenses/CECILL-B.html",
+        "prefix": "SPDX-CECILL-B"
+    },
+    "CeCILL-C Free Software License Agreement": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CECILL-C",
+        "description": "CeCILL-C Free Software License Agreement\nhttps://spdx.org/licenses/CECILL-C.html",
+        "prefix": "SPDX-CECILL-C"
+    },
+    "Clarified Artistic License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: ClArtistic",
+        "description": "Clarified Artistic License\nhttps://spdx.org/licenses/ClArtistic.html",
+        "prefix": "SPDX-ClArtistic"
+    },
+    "Code Project Open License 1.02": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CPOL-1.02",
+        "description": "Code Project Open License 1.02\nhttps://spdx.org/licenses/CPOL-1.02.html",
+        "prefix": "SPDX-CPOL-1.02"
+    },
+    "Common Development and Distribution License 1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CDDL-1.0",
+        "description": "Common Development and Distribution License 1.0\nhttps://spdx.org/licenses/CDDL-1.0.html",
+        "prefix": "SPDX-CDDL-1.0"
+    },
+    "Common Development and Distribution License 1.1": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CDDL-1.1",
+        "description": "Common Development and Distribution License 1.1\nhttps://spdx.org/licenses/CDDL-1.1.html",
+        "prefix": "SPDX-CDDL-1.1"
+    },
+    "Common Documentation License 1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CDL-1.0",
+        "description": "Common Documentation License 1.0\nhttps://spdx.org/licenses/CDL-1.0.html",
+        "prefix": "SPDX-CDL-1.0"
+    },
+    "Common Public Attribution License 1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CPAL-1.0",
+        "description": "Common Public Attribution License 1.0\nhttps://spdx.org/licenses/CPAL-1.0.html",
+        "prefix": "SPDX-CPAL-1.0"
+    },
+    "Common Public License 1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CPL-1.0",
+        "description": "Common Public License 1.0\nhttps://spdx.org/licenses/CPL-1.0.html",
+        "prefix": "SPDX-CPL-1.0"
+    },
+    "Community Data License Agreement Permissive 1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CDLA-Permissive-1.0",
+        "description": "Community Data License Agreement Permissive 1.0\nhttps://spdx.org/licenses/CDLA-Permissive-1.0.html",
+        "prefix": "SPDX-CDLA-Permissive-1.0"
+    },
+    "Community Data License Agreement Permissive 2.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CDLA-Permissive-2.0",
+        "description": "Community Data License Agreement Permissive 2.0\nhttps://spdx.org/licenses/CDLA-Permissive-2.0.html",
+        "prefix": "SPDX-CDLA-Permissive-2.0"
+    },
+    "Community Data License Agreement Sharing 1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CDLA-Sharing-1.0",
+        "description": "Community Data License Agreement Sharing 1.0\nhttps://spdx.org/licenses/CDLA-Sharing-1.0.html",
+        "prefix": "SPDX-CDLA-Sharing-1.0"
+    },
+    "Computational Use of Data Agreement v1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: C-UDA-1.0",
+        "description": "Computational Use of Data Agreement v1.0\nhttps://spdx.org/licenses/C-UDA-1.0.html",
+        "prefix": "SPDX-C-UDA-1.0"
+    },
+    "Computer Associates Trusted Open Source License 1.1": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CATOSL-1.1",
+        "description": "Computer Associates Trusted Open Source License 1.1\nhttps://spdx.org/licenses/CATOSL-1.1.html",
+        "prefix": "SPDX-CATOSL-1.1"
+    },
+    "Condor Public License v1.1": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Condor-1.1",
+        "description": "Condor Public License v1.1\nhttps://spdx.org/licenses/Condor-1.1.html",
+        "prefix": "SPDX-Condor-1.1"
+    },
+    "Creative Commons Attribution 1.0 Generic": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-1.0",
+        "description": "Creative Commons Attribution 1.0 Generic\nhttps://spdx.org/licenses/CC-BY-1.0.html",
+        "prefix": "SPDX-CC-BY-1.0"
+    },
+    "Creative Commons Attribution 2.0 Generic": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-2.0",
+        "description": "Creative Commons Attribution 2.0 Generic\nhttps://spdx.org/licenses/CC-BY-2.0.html",
+        "prefix": "SPDX-CC-BY-2.0"
+    },
+    "Creative Commons Attribution 2.5 Australia": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-2.5-AU",
+        "description": "Creative Commons Attribution 2.5 Australia\nhttps://spdx.org/licenses/CC-BY-2.5-AU.html",
+        "prefix": "SPDX-CC-BY-2.5-AU"
+    },
+    "Creative Commons Attribution 2.5 Generic": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-2.5",
+        "description": "Creative Commons Attribution 2.5 Generic\nhttps://spdx.org/licenses/CC-BY-2.5.html",
+        "prefix": "SPDX-CC-BY-2.5"
+    },
+    "Creative Commons Attribution 3.0 Austria": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-3.0-AT",
+        "description": "Creative Commons Attribution 3.0 Austria\nhttps://spdx.org/licenses/CC-BY-3.0-AT.html",
+        "prefix": "SPDX-CC-BY-3.0-AT"
+    },
+    "Creative Commons Attribution 3.0 Germany": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-3.0-DE",
+        "description": "Creative Commons Attribution 3.0 Germany\nhttps://spdx.org/licenses/CC-BY-3.0-DE.html",
+        "prefix": "SPDX-CC-BY-3.0-DE"
+    },
+    "Creative Commons Attribution 3.0 Netherlands": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-3.0-NL",
+        "description": "Creative Commons Attribution 3.0 Netherlands\nhttps://spdx.org/licenses/CC-BY-3.0-NL.html",
+        "prefix": "SPDX-CC-BY-3.0-NL"
+    },
+    "Creative Commons Attribution 3.0 United States": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-3.0-US",
+        "description": "Creative Commons Attribution 3.0 United States\nhttps://spdx.org/licenses/CC-BY-3.0-US.html",
+        "prefix": "SPDX-CC-BY-3.0-US"
+    },
+    "Creative Commons Attribution 3.0 Unported": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-3.0",
+        "description": "Creative Commons Attribution 3.0 Unported\nhttps://spdx.org/licenses/CC-BY-3.0.html",
+        "prefix": "SPDX-CC-BY-3.0"
+    },
+    "Creative Commons Attribution 4.0 International": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-4.0",
+        "description": "Creative Commons Attribution 4.0 International\nhttps://spdx.org/licenses/CC-BY-4.0.html",
+        "prefix": "SPDX-CC-BY-4.0"
+    },
+    "Creative Commons Attribution No Derivatives 1.0 Generic": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-ND-1.0",
+        "description": "Creative Commons Attribution No Derivatives 1.0 Generic\nhttps://spdx.org/licenses/CC-BY-ND-1.0.html",
+        "prefix": "SPDX-CC-BY-ND-1.0"
+    },
+    "Creative Commons Attribution No Derivatives 2.0 Generic": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-ND-2.0",
+        "description": "Creative Commons Attribution No Derivatives 2.0 Generic\nhttps://spdx.org/licenses/CC-BY-ND-2.0.html",
+        "prefix": "SPDX-CC-BY-ND-2.0"
+    },
+    "Creative Commons Attribution No Derivatives 2.5 Generic": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-ND-2.5",
+        "description": "Creative Commons Attribution No Derivatives 2.5 Generic\nhttps://spdx.org/licenses/CC-BY-ND-2.5.html",
+        "prefix": "SPDX-CC-BY-ND-2.5"
+    },
+    "Creative Commons Attribution No Derivatives 3.0 Germany": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-ND-3.0-DE",
+        "description": "Creative Commons Attribution No Derivatives 3.0 Germany\nhttps://spdx.org/licenses/CC-BY-ND-3.0-DE.html",
+        "prefix": "SPDX-CC-BY-ND-3.0-DE"
+    },
+    "Creative Commons Attribution No Derivatives 3.0 Unported": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-ND-3.0",
+        "description": "Creative Commons Attribution No Derivatives 3.0 Unported\nhttps://spdx.org/licenses/CC-BY-ND-3.0.html",
+        "prefix": "SPDX-CC-BY-ND-3.0"
+    },
+    "Creative Commons Attribution No Derivatives 4.0 International": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-ND-4.0",
+        "description": "Creative Commons Attribution No Derivatives 4.0 International\nhttps://spdx.org/licenses/CC-BY-ND-4.0.html",
+        "prefix": "SPDX-CC-BY-ND-4.0"
+    },
+    "Creative Commons Attribution Non Commercial 1.0 Generic": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-NC-1.0",
+        "description": "Creative Commons Attribution Non Commercial 1.0 Generic\nhttps://spdx.org/licenses/CC-BY-NC-1.0.html",
+        "prefix": "SPDX-CC-BY-NC-1.0"
+    },
+    "Creative Commons Attribution Non Commercial 2.0 Generic": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-NC-2.0",
+        "description": "Creative Commons Attribution Non Commercial 2.0 Generic\nhttps://spdx.org/licenses/CC-BY-NC-2.0.html",
+        "prefix": "SPDX-CC-BY-NC-2.0"
+    },
+    "Creative Commons Attribution Non Commercial 2.5 Generic": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-NC-2.5",
+        "description": "Creative Commons Attribution Non Commercial 2.5 Generic\nhttps://spdx.org/licenses/CC-BY-NC-2.5.html",
+        "prefix": "SPDX-CC-BY-NC-2.5"
+    },
+    "Creative Commons Attribution Non Commercial 3.0 Germany": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-NC-3.0-DE",
+        "description": "Creative Commons Attribution Non Commercial 3.0 Germany\nhttps://spdx.org/licenses/CC-BY-NC-3.0-DE.html",
+        "prefix": "SPDX-CC-BY-NC-3.0-DE"
+    },
+    "Creative Commons Attribution Non Commercial 3.0 Unported": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-NC-3.0",
+        "description": "Creative Commons Attribution Non Commercial 3.0 Unported\nhttps://spdx.org/licenses/CC-BY-NC-3.0.html",
+        "prefix": "SPDX-CC-BY-NC-3.0"
+    },
+    "Creative Commons Attribution Non Commercial 4.0 International": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-NC-4.0",
+        "description": "Creative Commons Attribution Non Commercial 4.0 International\nhttps://spdx.org/licenses/CC-BY-NC-4.0.html",
+        "prefix": "SPDX-CC-BY-NC-4.0"
+    },
+    "Creative Commons Attribution Non Commercial No Derivatives 1.0 Generic": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-NC-ND-1.0",
+        "description": "Creative Commons Attribution Non Commercial No Derivatives 1.0 Generic\nhttps://spdx.org/licenses/CC-BY-NC-ND-1.0.html",
+        "prefix": "SPDX-CC-BY-NC-ND-1.0"
+    },
+    "Creative Commons Attribution Non Commercial No Derivatives 2.0 Generic": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-NC-ND-2.0",
+        "description": "Creative Commons Attribution Non Commercial No Derivatives 2.0 Generic\nhttps://spdx.org/licenses/CC-BY-NC-ND-2.0.html",
+        "prefix": "SPDX-CC-BY-NC-ND-2.0"
+    },
+    "Creative Commons Attribution Non Commercial No Derivatives 2.5 Generic": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-NC-ND-2.5",
+        "description": "Creative Commons Attribution Non Commercial No Derivatives 2.5 Generic\nhttps://spdx.org/licenses/CC-BY-NC-ND-2.5.html",
+        "prefix": "SPDX-CC-BY-NC-ND-2.5"
+    },
+    "Creative Commons Attribution Non Commercial No Derivatives 3.0 Germany": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-NC-ND-3.0-DE",
+        "description": "Creative Commons Attribution Non Commercial No Derivatives 3.0 Germany\nhttps://spdx.org/licenses/CC-BY-NC-ND-3.0-DE.html",
+        "prefix": "SPDX-CC-BY-NC-ND-3.0-DE"
+    },
+    "Creative Commons Attribution Non Commercial No Derivatives 3.0 IGO": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-NC-ND-3.0-IGO",
+        "description": "Creative Commons Attribution Non Commercial No Derivatives 3.0 IGO\nhttps://spdx.org/licenses/CC-BY-NC-ND-3.0-IGO.html",
+        "prefix": "SPDX-CC-BY-NC-ND-3.0-IGO"
+    },
+    "Creative Commons Attribution Non Commercial No Derivatives 3.0 Unported": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-NC-ND-3.0",
+        "description": "Creative Commons Attribution Non Commercial No Derivatives 3.0 Unported\nhttps://spdx.org/licenses/CC-BY-NC-ND-3.0.html",
+        "prefix": "SPDX-CC-BY-NC-ND-3.0"
+    },
+    "Creative Commons Attribution Non Commercial No Derivatives 4.0 International": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-NC-ND-4.0",
+        "description": "Creative Commons Attribution Non Commercial No Derivatives 4.0 International\nhttps://spdx.org/licenses/CC-BY-NC-ND-4.0.html",
+        "prefix": "SPDX-CC-BY-NC-ND-4.0"
+    },
+    "Creative Commons Attribution Non Commercial Share Alike 1.0 Generic": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-NC-SA-1.0",
+        "description": "Creative Commons Attribution Non Commercial Share Alike 1.0 Generic\nhttps://spdx.org/licenses/CC-BY-NC-SA-1.0.html",
+        "prefix": "SPDX-CC-BY-NC-SA-1.0"
+    },
+    "Creative Commons Attribution Non Commercial Share Alike 2.0 England and Wales": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-NC-SA-2.0-UK",
+        "description": "Creative Commons Attribution Non Commercial Share Alike 2.0 England and Wales\nhttps://spdx.org/licenses/CC-BY-NC-SA-2.0-UK.html",
+        "prefix": "SPDX-CC-BY-NC-SA-2.0-UK"
+    },
+    "Creative Commons Attribution Non Commercial Share Alike 2.0 Generic": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-NC-SA-2.0",
+        "description": "Creative Commons Attribution Non Commercial Share Alike 2.0 Generic\nhttps://spdx.org/licenses/CC-BY-NC-SA-2.0.html",
+        "prefix": "SPDX-CC-BY-NC-SA-2.0"
+    },
+    "Creative Commons Attribution Non Commercial Share Alike 2.5 Generic": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-NC-SA-2.5",
+        "description": "Creative Commons Attribution Non Commercial Share Alike 2.5 Generic\nhttps://spdx.org/licenses/CC-BY-NC-SA-2.5.html",
+        "prefix": "SPDX-CC-BY-NC-SA-2.5"
+    },
+    "Creative Commons Attribution Non Commercial Share Alike 3.0 Germany": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-NC-SA-3.0-DE",
+        "description": "Creative Commons Attribution Non Commercial Share Alike 3.0 Germany\nhttps://spdx.org/licenses/CC-BY-NC-SA-3.0-DE.html",
+        "prefix": "SPDX-CC-BY-NC-SA-3.0-DE"
+    },
+    "Creative Commons Attribution Non Commercial Share Alike 3.0 IGO": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-NC-SA-3.0-IGO",
+        "description": "Creative Commons Attribution Non Commercial Share Alike 3.0 IGO\nhttps://spdx.org/licenses/CC-BY-NC-SA-3.0-IGO.html",
+        "prefix": "SPDX-CC-BY-NC-SA-3.0-IGO"
+    },
+    "Creative Commons Attribution Non Commercial Share Alike 3.0 Unported": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-NC-SA-3.0",
+        "description": "Creative Commons Attribution Non Commercial Share Alike 3.0 Unported\nhttps://spdx.org/licenses/CC-BY-NC-SA-3.0.html",
+        "prefix": "SPDX-CC-BY-NC-SA-3.0"
+    },
+    "Creative Commons Attribution Non Commercial Share Alike 4.0 International": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-NC-SA-4.0",
+        "description": "Creative Commons Attribution Non Commercial Share Alike 4.0 International\nhttps://spdx.org/licenses/CC-BY-NC-SA-4.0.html",
+        "prefix": "SPDX-CC-BY-NC-SA-4.0"
+    },
+    "Creative Commons Attribution Share Alike 1.0 Generic": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-SA-1.0",
+        "description": "Creative Commons Attribution Share Alike 1.0 Generic\nhttps://spdx.org/licenses/CC-BY-SA-1.0.html",
+        "prefix": "SPDX-CC-BY-SA-1.0"
+    },
+    "Creative Commons Attribution Share Alike 2.0 England and Wales": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-SA-2.0-UK",
+        "description": "Creative Commons Attribution Share Alike 2.0 England and Wales\nhttps://spdx.org/licenses/CC-BY-SA-2.0-UK.html",
+        "prefix": "SPDX-CC-BY-SA-2.0-UK"
+    },
+    "Creative Commons Attribution Share Alike 2.0 Generic": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-SA-2.0",
+        "description": "Creative Commons Attribution Share Alike 2.0 Generic\nhttps://spdx.org/licenses/CC-BY-SA-2.0.html",
+        "prefix": "SPDX-CC-BY-SA-2.0"
+    },
+    "Creative Commons Attribution Share Alike 2.1 Japan": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-SA-2.1-JP",
+        "description": "Creative Commons Attribution Share Alike 2.1 Japan\nhttps://spdx.org/licenses/CC-BY-SA-2.1-JP.html",
+        "prefix": "SPDX-CC-BY-SA-2.1-JP"
+    },
+    "Creative Commons Attribution Share Alike 2.5 Generic": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-SA-2.5",
+        "description": "Creative Commons Attribution Share Alike 2.5 Generic\nhttps://spdx.org/licenses/CC-BY-SA-2.5.html",
+        "prefix": "SPDX-CC-BY-SA-2.5"
+    },
+    "Creative Commons Attribution Share Alike 3.0 Austria": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-SA-3.0-AT",
+        "description": "Creative Commons Attribution Share Alike 3.0 Austria\nhttps://spdx.org/licenses/CC-BY-SA-3.0-AT.html",
+        "prefix": "SPDX-CC-BY-SA-3.0-AT"
+    },
+    "Creative Commons Attribution Share Alike 3.0 Germany": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-SA-3.0-DE",
+        "description": "Creative Commons Attribution Share Alike 3.0 Germany\nhttps://spdx.org/licenses/CC-BY-SA-3.0-DE.html",
+        "prefix": "SPDX-CC-BY-SA-3.0-DE"
+    },
+    "Creative Commons Attribution Share Alike 3.0 Unported": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-SA-3.0",
+        "description": "Creative Commons Attribution Share Alike 3.0 Unported\nhttps://spdx.org/licenses/CC-BY-SA-3.0.html",
+        "prefix": "SPDX-CC-BY-SA-3.0"
+    },
+    "Creative Commons Attribution Share Alike 4.0 International": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-SA-4.0",
+        "description": "Creative Commons Attribution Share Alike 4.0 International\nhttps://spdx.org/licenses/CC-BY-SA-4.0.html",
+        "prefix": "SPDX-CC-BY-SA-4.0"
+    },
+    "Creative Commons Attribution-NonCommercial-ShareAlike 2.0 France": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-BY-NC-SA-2.0-FR",
+        "description": "Creative Commons Attribution-NonCommercial-ShareAlike 2.0 France\nhttps://spdx.org/licenses/CC-BY-NC-SA-2.0-FR.html",
+        "prefix": "SPDX-CC-BY-NC-SA-2.0-FR"
+    },
+    "Creative Commons Public Domain Dedication and Certification": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC-PDDC",
+        "description": "Creative Commons Public Domain Dedication and Certification\nhttps://spdx.org/licenses/CC-PDDC.html",
+        "prefix": "SPDX-CC-PDDC"
+    },
+    "Creative Commons Zero v1.0 Universal": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CC0-1.0",
+        "description": "Creative Commons Zero v1.0 Universal\nhttps://spdx.org/licenses/CC0-1.0.html",
+        "prefix": "SPDX-CC0-1.0"
+    },
+    "Crossword License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Crossword",
+        "description": "Crossword License\nhttps://spdx.org/licenses/Crossword.html",
+        "prefix": "SPDX-Crossword"
+    },
+    "Cryptographic Autonomy License 1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CAL-1.0",
+        "description": "Cryptographic Autonomy License 1.0\nhttps://spdx.org/licenses/CAL-1.0.html",
+        "prefix": "SPDX-CAL-1.0"
+    },
+    "Cryptographic Autonomy License 1.0 (Combined Work Exception)": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CAL-1.0-Combined-Work-Exception",
+        "description": "Cryptographic Autonomy License 1.0 (Combined Work Exception)\nhttps://spdx.org/licenses/CAL-1.0-Combined-Work-Exception.html",
+        "prefix": "SPDX-CAL-1.0-Combined-Work-Exception"
+    },
+    "CrystalStacker License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: CrystalStacker",
+        "description": "CrystalStacker License\nhttps://spdx.org/licenses/CrystalStacker.html",
+        "prefix": "SPDX-CrystalStacker"
+    },
+    "Cube License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Cube",
+        "description": "Cube License\nhttps://spdx.org/licenses/Cube.html",
+        "prefix": "SPDX-Cube"
+    },
+    "DOC License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: DOC",
+        "description": "DOC License\nhttps://spdx.org/licenses/DOC.html",
+        "prefix": "SPDX-DOC"
+    },
+    "DSDP License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: DSDP",
+        "description": "DSDP License\nhttps://spdx.org/licenses/DSDP.html",
+        "prefix": "SPDX-DSDP"
+    },
+    "Detection Rule License 1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: DRL-1.0",
+        "description": "Detection Rule License 1.0\nhttps://spdx.org/licenses/DRL-1.0.html",
+        "prefix": "SPDX-DRL-1.0"
+    },
+    "Deutsche Freie Software Lizenz": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: D-FSL-1.0",
+        "description": "Deutsche Freie Software Lizenz\nhttps://spdx.org/licenses/D-FSL-1.0.html",
+        "prefix": "SPDX-D-FSL-1.0"
+    },
+    "Do What The F*ck You Want To Public License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: WTFPL",
+        "description": "Do What The F*ck You Want To Public License\nhttps://spdx.org/licenses/WTFPL.html",
+        "prefix": "SPDX-WTFPL"
+    },
+    "Dotseqn License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Dotseqn",
+        "description": "Dotseqn License\nhttps://spdx.org/licenses/Dotseqn.html",
+        "prefix": "SPDX-Dotseqn"
+    },
+    "EPICS Open License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: EPICS",
+        "description": "EPICS Open License\nhttps://spdx.org/licenses/EPICS.html",
+        "prefix": "SPDX-EPICS"
+    },
+    "EU DataGrid Software License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: EUDatagrid",
+        "description": "EU DataGrid Software License\nhttps://spdx.org/licenses/EUDatagrid.html",
+        "prefix": "SPDX-EUDatagrid"
+    },
+    "Eclipse Public License 1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: EPL-1.0",
+        "description": "Eclipse Public License 1.0\nhttps://spdx.org/licenses/EPL-1.0.html",
+        "prefix": "SPDX-EPL-1.0"
+    },
+    "Eclipse Public License 2.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: EPL-2.0",
+        "description": "Eclipse Public License 2.0\nhttps://spdx.org/licenses/EPL-2.0.html",
+        "prefix": "SPDX-EPL-2.0"
+    },
+    "Educational Community License v1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: ECL-1.0",
+        "description": "Educational Community License v1.0\nhttps://spdx.org/licenses/ECL-1.0.html",
+        "prefix": "SPDX-ECL-1.0"
+    },
+    "Educational Community License v2.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: ECL-2.0",
+        "description": "Educational Community License v2.0\nhttps://spdx.org/licenses/ECL-2.0.html",
+        "prefix": "SPDX-ECL-2.0"
+    },
+    "Eiffel Forum License v1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: EFL-1.0",
+        "description": "Eiffel Forum License v1.0\nhttps://spdx.org/licenses/EFL-1.0.html",
+        "prefix": "SPDX-EFL-1.0"
+    },
+    "Eiffel Forum License v2.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: EFL-2.0",
+        "description": "Eiffel Forum License v2.0\nhttps://spdx.org/licenses/EFL-2.0.html",
+        "prefix": "SPDX-EFL-2.0"
+    },
+    "Enlightenment License (e16)": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: MIT-advertising",
+        "description": "Enlightenment License (e16)\nhttps://spdx.org/licenses/MIT-advertising.html",
+        "prefix": "SPDX-MIT-advertising"
+    },
+    "Entessa Public License v1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Entessa",
+        "description": "Entessa Public License v1.0\nhttps://spdx.org/licenses/Entessa.html",
+        "prefix": "SPDX-Entessa"
+    },
+    "Erlang Public License v1.1": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: ErlPL-1.1",
+        "description": "Erlang Public License v1.1\nhttps://spdx.org/licenses/ErlPL-1.1.html",
+        "prefix": "SPDX-ErlPL-1.1"
+    },
+    "Etalab Open License 2.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: etalab-2.0",
+        "description": "Etalab Open License 2.0\nhttps://spdx.org/licenses/etalab-2.0.html",
+        "prefix": "SPDX-etalab-2.0"
+    },
+    "European Union Public License 1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: EUPL-1.0",
+        "description": "European Union Public License 1.0\nhttps://spdx.org/licenses/EUPL-1.0.html",
+        "prefix": "SPDX-EUPL-1.0"
+    },
+    "European Union Public License 1.1": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: EUPL-1.1",
+        "description": "European Union Public License 1.1\nhttps://spdx.org/licenses/EUPL-1.1.html",
+        "prefix": "SPDX-EUPL-1.1"
+    },
+    "European Union Public License 1.2": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: EUPL-1.2",
+        "description": "European Union Public License 1.2\nhttps://spdx.org/licenses/EUPL-1.2.html",
+        "prefix": "SPDX-EUPL-1.2"
+    },
+    "Eurosym License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Eurosym",
+        "description": "Eurosym License\nhttps://spdx.org/licenses/Eurosym.html",
+        "prefix": "SPDX-Eurosym"
+    },
+    "FSF All Permissive License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: FSFAP",
+        "description": "FSF All Permissive License\nhttps://spdx.org/licenses/FSFAP.html",
+        "prefix": "SPDX-FSFAP"
+    },
+    "FSF Unlimited License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: FSFUL",
+        "description": "FSF Unlimited License\nhttps://spdx.org/licenses/FSFUL.html",
+        "prefix": "SPDX-FSFUL"
+    },
+    "FSF Unlimited License (with License Retention)": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: FSFULLR",
+        "description": "FSF Unlimited License (with License Retention)\nhttps://spdx.org/licenses/FSFULLR.html",
+        "prefix": "SPDX-FSFULLR"
+    },
+    "Fair License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Fair",
+        "description": "Fair License\nhttps://spdx.org/licenses/Fair.html",
+        "prefix": "SPDX-Fair"
+    },
+    "Frameworx Open License 1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Frameworx-1.0",
+        "description": "Frameworx Open License 1.0\nhttps://spdx.org/licenses/Frameworx-1.0.html",
+        "prefix": "SPDX-Frameworx-1.0"
+    },
+    "FreeBSD Documentation License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: FreeBSD-DOC",
+        "description": "FreeBSD Documentation License\nhttps://spdx.org/licenses/FreeBSD-DOC.html",
+        "prefix": "SPDX-FreeBSD-DOC"
+    },
+    "FreeImage Public License v1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: FreeImage",
+        "description": "FreeImage Public License v1.0\nhttps://spdx.org/licenses/FreeImage.html",
+        "prefix": "SPDX-FreeImage"
+    },
+    "Freetype Project License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: FTL",
+        "description": "Freetype Project License\nhttps://spdx.org/licenses/FTL.html",
+        "prefix": "SPDX-FTL"
+    },
+    "GD License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: GD",
+        "description": "GD License\nhttps://spdx.org/licenses/GD.html",
+        "prefix": "SPDX-GD"
+    },
+    "GL2PS License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: GL2PS",
+        "description": "GL2PS License\nhttps://spdx.org/licenses/GL2PS.html",
+        "prefix": "SPDX-GL2PS"
+    },
+    "GNU Affero General Public License v3.0 only": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: AGPL-3.0-only",
+        "description": "GNU Affero General Public License v3.0 only\nhttps://spdx.org/licenses/AGPL-3.0-only.html",
+        "prefix": "SPDX-AGPL-3.0-only"
+    },
+    "GNU Affero General Public License v3.0 or later": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: AGPL-3.0-or-later",
+        "description": "GNU Affero General Public License v3.0 or later\nhttps://spdx.org/licenses/AGPL-3.0-or-later.html",
+        "prefix": "SPDX-AGPL-3.0-or-later"
+    },
+    "GNU Free Documentation License v1.1 only": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: GFDL-1.1-only",
+        "description": "GNU Free Documentation License v1.1 only\nhttps://spdx.org/licenses/GFDL-1.1-only.html",
+        "prefix": "SPDX-GFDL-1.1-only"
+    },
+    "GNU Free Documentation License v1.1 only - invariants": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: GFDL-1.1-invariants-only",
+        "description": "GNU Free Documentation License v1.1 only - invariants\nhttps://spdx.org/licenses/GFDL-1.1-invariants-only.html",
+        "prefix": "SPDX-GFDL-1.1-invariants-only"
+    },
+    "GNU Free Documentation License v1.1 only - no invariants": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: GFDL-1.1-no-invariants-only",
+        "description": "GNU Free Documentation License v1.1 only - no invariants\nhttps://spdx.org/licenses/GFDL-1.1-no-invariants-only.html",
+        "prefix": "SPDX-GFDL-1.1-no-invariants-only"
+    },
+    "GNU Free Documentation License v1.1 or later": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: GFDL-1.1-or-later",
+        "description": "GNU Free Documentation License v1.1 or later\nhttps://spdx.org/licenses/GFDL-1.1-or-later.html",
+        "prefix": "SPDX-GFDL-1.1-or-later"
+    },
+    "GNU Free Documentation License v1.1 or later - invariants": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: GFDL-1.1-invariants-or-later",
+        "description": "GNU Free Documentation License v1.1 or later - invariants\nhttps://spdx.org/licenses/GFDL-1.1-invariants-or-later.html",
+        "prefix": "SPDX-GFDL-1.1-invariants-or-later"
+    },
+    "GNU Free Documentation License v1.1 or later - no invariants": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: GFDL-1.1-no-invariants-or-later",
+        "description": "GNU Free Documentation License v1.1 or later - no invariants\nhttps://spdx.org/licenses/GFDL-1.1-no-invariants-or-later.html",
+        "prefix": "SPDX-GFDL-1.1-no-invariants-or-later"
+    },
+    "GNU Free Documentation License v1.2 only": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: GFDL-1.2-only",
+        "description": "GNU Free Documentation License v1.2 only\nhttps://spdx.org/licenses/GFDL-1.2-only.html",
+        "prefix": "SPDX-GFDL-1.2-only"
+    },
+    "GNU Free Documentation License v1.2 only - invariants": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: GFDL-1.2-invariants-only",
+        "description": "GNU Free Documentation License v1.2 only - invariants\nhttps://spdx.org/licenses/GFDL-1.2-invariants-only.html",
+        "prefix": "SPDX-GFDL-1.2-invariants-only"
+    },
+    "GNU Free Documentation License v1.2 only - no invariants": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: GFDL-1.2-no-invariants-only",
+        "description": "GNU Free Documentation License v1.2 only - no invariants\nhttps://spdx.org/licenses/GFDL-1.2-no-invariants-only.html",
+        "prefix": "SPDX-GFDL-1.2-no-invariants-only"
+    },
+    "GNU Free Documentation License v1.2 or later": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: GFDL-1.2-or-later",
+        "description": "GNU Free Documentation License v1.2 or later\nhttps://spdx.org/licenses/GFDL-1.2-or-later.html",
+        "prefix": "SPDX-GFDL-1.2-or-later"
+    },
+    "GNU Free Documentation License v1.2 or later - invariants": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: GFDL-1.2-invariants-or-later",
+        "description": "GNU Free Documentation License v1.2 or later - invariants\nhttps://spdx.org/licenses/GFDL-1.2-invariants-or-later.html",
+        "prefix": "SPDX-GFDL-1.2-invariants-or-later"
+    },
+    "GNU Free Documentation License v1.2 or later - no invariants": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: GFDL-1.2-no-invariants-or-later",
+        "description": "GNU Free Documentation License v1.2 or later - no invariants\nhttps://spdx.org/licenses/GFDL-1.2-no-invariants-or-later.html",
+        "prefix": "SPDX-GFDL-1.2-no-invariants-or-later"
+    },
+    "GNU Free Documentation License v1.3 only": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: GFDL-1.3-only",
+        "description": "GNU Free Documentation License v1.3 only\nhttps://spdx.org/licenses/GFDL-1.3-only.html",
+        "prefix": "SPDX-GFDL-1.3-only"
+    },
+    "GNU Free Documentation License v1.3 only - invariants": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: GFDL-1.3-invariants-only",
+        "description": "GNU Free Documentation License v1.3 only - invariants\nhttps://spdx.org/licenses/GFDL-1.3-invariants-only.html",
+        "prefix": "SPDX-GFDL-1.3-invariants-only"
+    },
+    "GNU Free Documentation License v1.3 only - no invariants": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: GFDL-1.3-no-invariants-only",
+        "description": "GNU Free Documentation License v1.3 only - no invariants\nhttps://spdx.org/licenses/GFDL-1.3-no-invariants-only.html",
+        "prefix": "SPDX-GFDL-1.3-no-invariants-only"
+    },
+    "GNU Free Documentation License v1.3 or later": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: GFDL-1.3-or-later",
+        "description": "GNU Free Documentation License v1.3 or later\nhttps://spdx.org/licenses/GFDL-1.3-or-later.html",
+        "prefix": "SPDX-GFDL-1.3-or-later"
+    },
+    "GNU Free Documentation License v1.3 or later - invariants": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: GFDL-1.3-invariants-or-later",
+        "description": "GNU Free Documentation License v1.3 or later - invariants\nhttps://spdx.org/licenses/GFDL-1.3-invariants-or-later.html",
+        "prefix": "SPDX-GFDL-1.3-invariants-or-later"
+    },
+    "GNU Free Documentation License v1.3 or later - no invariants": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: GFDL-1.3-no-invariants-or-later",
+        "description": "GNU Free Documentation License v1.3 or later - no invariants\nhttps://spdx.org/licenses/GFDL-1.3-no-invariants-or-later.html",
+        "prefix": "SPDX-GFDL-1.3-no-invariants-or-later"
+    },
+    "GNU General Public License v1.0 only": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: GPL-1.0-only",
+        "description": "GNU General Public License v1.0 only\nhttps://spdx.org/licenses/GPL-1.0-only.html",
+        "prefix": "SPDX-GPL-1.0-only"
+    },
+    "GNU General Public License v1.0 or later": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: GPL-1.0-or-later",
+        "description": "GNU General Public License v1.0 or later\nhttps://spdx.org/licenses/GPL-1.0-or-later.html",
+        "prefix": "SPDX-GPL-1.0-or-later"
+    },
+    "GNU General Public License v2.0 only": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: GPL-2.0-only",
+        "description": "GNU General Public License v2.0 only\nhttps://spdx.org/licenses/GPL-2.0-only.html",
+        "prefix": "SPDX-GPL-2.0-only"
+    },
+    "GNU General Public License v2.0 or later": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: GPL-2.0-or-later",
+        "description": "GNU General Public License v2.0 or later\nhttps://spdx.org/licenses/GPL-2.0-or-later.html",
+        "prefix": "SPDX-GPL-2.0-or-later"
+    },
+    "GNU General Public License v3.0 only": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: GPL-3.0-only",
+        "description": "GNU General Public License v3.0 only\nhttps://spdx.org/licenses/GPL-3.0-only.html",
+        "prefix": "SPDX-GPL-3.0-only"
+    },
+    "GNU General Public License v3.0 or later": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: GPL-3.0-or-later",
+        "description": "GNU General Public License v3.0 or later\nhttps://spdx.org/licenses/GPL-3.0-or-later.html",
+        "prefix": "SPDX-GPL-3.0-or-later"
+    },
+    "GNU Lesser General Public License v2.1 only": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: LGPL-2.1-only",
+        "description": "GNU Lesser General Public License v2.1 only\nhttps://spdx.org/licenses/LGPL-2.1-only.html",
+        "prefix": "SPDX-LGPL-2.1-only"
+    },
+    "GNU Lesser General Public License v2.1 or later": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: LGPL-2.1-or-later",
+        "description": "GNU Lesser General Public License v2.1 or later\nhttps://spdx.org/licenses/LGPL-2.1-or-later.html",
+        "prefix": "SPDX-LGPL-2.1-or-later"
+    },
+    "GNU Lesser General Public License v3.0 only": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: LGPL-3.0-only",
+        "description": "GNU Lesser General Public License v3.0 only\nhttps://spdx.org/licenses/LGPL-3.0-only.html",
+        "prefix": "SPDX-LGPL-3.0-only"
+    },
+    "GNU Lesser General Public License v3.0 or later": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: LGPL-3.0-or-later",
+        "description": "GNU Lesser General Public License v3.0 or later\nhttps://spdx.org/licenses/LGPL-3.0-or-later.html",
+        "prefix": "SPDX-LGPL-3.0-or-later"
+    },
+    "GNU Library General Public License v2 only": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: LGPL-2.0-only",
+        "description": "GNU Library General Public License v2 only\nhttps://spdx.org/licenses/LGPL-2.0-only.html",
+        "prefix": "SPDX-LGPL-2.0-only"
+    },
+    "GNU Library General Public License v2 or later": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: LGPL-2.0-or-later",
+        "description": "GNU Library General Public License v2 or later\nhttps://spdx.org/licenses/LGPL-2.0-or-later.html",
+        "prefix": "SPDX-LGPL-2.0-or-later"
+    },
+    "Giftware License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Giftware",
+        "description": "Giftware License\nhttps://spdx.org/licenses/Giftware.html",
+        "prefix": "SPDX-Giftware"
+    },
+    "Glulxe License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Glulxe",
+        "description": "Glulxe License\nhttps://spdx.org/licenses/Glulxe.html",
+        "prefix": "SPDX-Glulxe"
+    },
+    "Good Luck With That Public License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: GLWTPL",
+        "description": "Good Luck With That Public License\nhttps://spdx.org/licenses/GLWTPL.html",
+        "prefix": "SPDX-GLWTPL"
+    },
+    "HTML Tidy License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: HTMLTIDY",
+        "description": "HTML Tidy License\nhttps://spdx.org/licenses/HTMLTIDY.html",
+        "prefix": "SPDX-HTMLTIDY"
+    },
+    "Haskell Language Report License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: HaskellReport",
+        "description": "Haskell Language Report License\nhttps://spdx.org/licenses/HaskellReport.html",
+        "prefix": "SPDX-HaskellReport"
+    },
+    "Hippocratic License 2.1": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Hippocratic-2.1",
+        "description": "Hippocratic License 2.1\nhttps://spdx.org/licenses/Hippocratic-2.1.html",
+        "prefix": "SPDX-Hippocratic-2.1"
+    },
+    "Historical Permission Notice and Disclaimer": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: HPND",
+        "description": "Historical Permission Notice and Disclaimer\nhttps://spdx.org/licenses/HPND.html",
+        "prefix": "SPDX-HPND"
+    },
+    "Historical Permission Notice and Disclaimer - sell variant": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: HPND-sell-variant",
+        "description": "Historical Permission Notice and Disclaimer - sell variant\nhttps://spdx.org/licenses/HPND-sell-variant.html",
+        "prefix": "SPDX-HPND-sell-variant"
+    },
+    "IBM PowerPC Initialization and Boot Software": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: IBM-pibs",
+        "description": "IBM PowerPC Initialization and Boot Software\nhttps://spdx.org/licenses/IBM-pibs.html",
+        "prefix": "SPDX-IBM-pibs"
+    },
+    "IBM Public License v1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: IPL-1.0",
+        "description": "IBM Public License v1.0\nhttps://spdx.org/licenses/IPL-1.0.html",
+        "prefix": "SPDX-IPL-1.0"
+    },
+    "ICU License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: ICU",
+        "description": "ICU License\nhttps://spdx.org/licenses/ICU.html",
+        "prefix": "SPDX-ICU"
+    },
+    "IPA Font License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: IPA",
+        "description": "IPA Font License\nhttps://spdx.org/licenses/IPA.html",
+        "prefix": "SPDX-IPA"
+    },
+    "ISC License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: ISC",
+        "description": "ISC License\nhttps://spdx.org/licenses/ISC.html",
+        "prefix": "SPDX-ISC"
+    },
+    "ImageMagick License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: ImageMagick",
+        "description": "ImageMagick License\nhttps://spdx.org/licenses/ImageMagick.html",
+        "prefix": "SPDX-ImageMagick"
+    },
+    "Imlib2 License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Imlib2",
+        "description": "Imlib2 License\nhttps://spdx.org/licenses/Imlib2.html",
+        "prefix": "SPDX-Imlib2"
+    },
+    "Independent JPEG Group License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: IJG",
+        "description": "Independent JPEG Group License\nhttps://spdx.org/licenses/IJG.html",
+        "prefix": "SPDX-IJG"
+    },
+    "Info-ZIP License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Info-ZIP",
+        "description": "Info-ZIP License\nhttps://spdx.org/licenses/Info-ZIP.html",
+        "prefix": "SPDX-Info-ZIP"
+    },
+    "Intel ACPI Software License Agreement": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Intel-ACPI",
+        "description": "Intel ACPI Software License Agreement\nhttps://spdx.org/licenses/Intel-ACPI.html",
+        "prefix": "SPDX-Intel-ACPI"
+    },
+    "Intel Open Source License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Intel",
+        "description": "Intel Open Source License\nhttps://spdx.org/licenses/Intel.html",
+        "prefix": "SPDX-Intel"
+    },
+    "Interbase Public License v1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Interbase-1.0",
+        "description": "Interbase Public License v1.0\nhttps://spdx.org/licenses/Interbase-1.0.html",
+        "prefix": "SPDX-Interbase-1.0"
+    },
+    "JSON License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: JSON",
+        "description": "JSON License\nhttps://spdx.org/licenses/JSON.html",
+        "prefix": "SPDX-JSON"
+    },
+    "Japan Network Information Center License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: JPNIC",
+        "description": "Japan Network Information Center License\nhttps://spdx.org/licenses/JPNIC.html",
+        "prefix": "SPDX-JPNIC"
+    },
+    "JasPer License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: JasPer-2.0",
+        "description": "JasPer License\nhttps://spdx.org/licenses/JasPer-2.0.html",
+        "prefix": "SPDX-JasPer-2.0"
+    },
+    "LaTeX Project Public License v1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: LPPL-1.0",
+        "description": "LaTeX Project Public License v1.0\nhttps://spdx.org/licenses/LPPL-1.0.html",
+        "prefix": "SPDX-LPPL-1.0"
+    },
+    "LaTeX Project Public License v1.1": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: LPPL-1.1",
+        "description": "LaTeX Project Public License v1.1\nhttps://spdx.org/licenses/LPPL-1.1.html",
+        "prefix": "SPDX-LPPL-1.1"
+    },
+    "LaTeX Project Public License v1.2": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: LPPL-1.2",
+        "description": "LaTeX Project Public License v1.2\nhttps://spdx.org/licenses/LPPL-1.2.html",
+        "prefix": "SPDX-LPPL-1.2"
+    },
+    "LaTeX Project Public License v1.3a": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: LPPL-1.3a",
+        "description": "LaTeX Project Public License v1.3a\nhttps://spdx.org/licenses/LPPL-1.3a.html",
+        "prefix": "SPDX-LPPL-1.3a"
+    },
+    "LaTeX Project Public License v1.3c": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: LPPL-1.3c",
+        "description": "LaTeX Project Public License v1.3c\nhttps://spdx.org/licenses/LPPL-1.3c.html",
+        "prefix": "SPDX-LPPL-1.3c"
+    },
+    "Latex2e License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Latex2e",
+        "description": "Latex2e License\nhttps://spdx.org/licenses/Latex2e.html",
+        "prefix": "SPDX-Latex2e"
+    },
+    "Lawrence Berkeley National Labs BSD variant license": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: BSD-3-Clause-LBNL",
+        "description": "Lawrence Berkeley National Labs BSD variant license\nhttps://spdx.org/licenses/BSD-3-Clause-LBNL.html",
+        "prefix": "SPDX-BSD-3-Clause-LBNL"
+    },
+    "Leptonica License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Leptonica",
+        "description": "Leptonica License\nhttps://spdx.org/licenses/Leptonica.html",
+        "prefix": "SPDX-Leptonica"
+    },
+    "Lesser General Public License For Linguistic Resources": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: LGPLLR",
+        "description": "Lesser General Public License For Linguistic Resources\nhttps://spdx.org/licenses/LGPLLR.html",
+        "prefix": "SPDX-LGPLLR"
+    },
+    "Licence Art Libre 1.2": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: LAL-1.2",
+        "description": "Licence Art Libre 1.2\nhttps://spdx.org/licenses/LAL-1.2.html",
+        "prefix": "SPDX-LAL-1.2"
+    },
+    "Licence Art Libre 1.3": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: LAL-1.3",
+        "description": "Licence Art Libre 1.3\nhttps://spdx.org/licenses/LAL-1.3.html",
+        "prefix": "SPDX-LAL-1.3"
+    },
+    "Licence Libre du Qu\u00e9bec \u2013 Permissive version 1.1": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: LiLiQ-P-1.1",
+        "description": "Licence Libre du Qu\u00e9bec \u2013 Permissive version 1.1\nhttps://spdx.org/licenses/LiLiQ-P-1.1.html",
+        "prefix": "SPDX-LiLiQ-P-1.1"
+    },
+    "Licence Libre du Qu\u00e9bec \u2013 R\u00e9ciprocit\u00e9 forte version 1.1": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: LiLiQ-Rplus-1.1",
+        "description": "Licence Libre du Qu\u00e9bec \u2013 R\u00e9ciprocit\u00e9 forte version 1.1\nhttps://spdx.org/licenses/LiLiQ-Rplus-1.1.html",
+        "prefix": "SPDX-LiLiQ-Rplus-1.1"
+    },
+    "Licence Libre du Qu\u00e9bec \u2013 R\u00e9ciprocit\u00e9 version 1.1": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: LiLiQ-R-1.1",
+        "description": "Licence Libre du Qu\u00e9bec \u2013 R\u00e9ciprocit\u00e9 version 1.1\nhttps://spdx.org/licenses/LiLiQ-R-1.1.html",
+        "prefix": "SPDX-LiLiQ-R-1.1"
+    },
+    "Linux Kernel Variant of OpenIB.org license": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Linux-OpenIB",
+        "description": "Linux Kernel Variant of OpenIB.org license\nhttps://spdx.org/licenses/Linux-OpenIB.html",
+        "prefix": "SPDX-Linux-OpenIB"
+    },
+    "Lucent Public License Version 1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: LPL-1.0",
+        "description": "Lucent Public License Version 1.0\nhttps://spdx.org/licenses/LPL-1.0.html",
+        "prefix": "SPDX-LPL-1.0"
+    },
+    "Lucent Public License v1.02": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: LPL-1.02",
+        "description": "Lucent Public License v1.02\nhttps://spdx.org/licenses/LPL-1.02.html",
+        "prefix": "SPDX-LPL-1.02"
+    },
+    "MIT +no-false-attribs license": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: MITNFA",
+        "description": "MIT +no-false-attribs license\nhttps://spdx.org/licenses/MITNFA.html",
+        "prefix": "SPDX-MITNFA"
+    },
+    "MIT License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: MIT",
+        "description": "MIT License\nhttps://spdx.org/licenses/MIT.html",
+        "prefix": "SPDX-MIT"
+    },
+    "MIT License Modern Variant": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: MIT-Modern-Variant",
+        "description": "MIT License Modern Variant\nhttps://spdx.org/licenses/MIT-Modern-Variant.html",
+        "prefix": "SPDX-MIT-Modern-Variant"
+    },
+    "MIT No Attribution": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: MIT-0",
+        "description": "MIT No Attribution\nhttps://spdx.org/licenses/MIT-0.html",
+        "prefix": "SPDX-MIT-0"
+    },
+    "MIT Open Group variant": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: MIT-open-group",
+        "description": "MIT Open Group variant\nhttps://spdx.org/licenses/MIT-open-group.html",
+        "prefix": "SPDX-MIT-open-group"
+    },
+    "MakeIndex License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: MakeIndex",
+        "description": "MakeIndex License\nhttps://spdx.org/licenses/MakeIndex.html",
+        "prefix": "SPDX-MakeIndex"
+    },
+    "Matrix Template Library License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: MTLL",
+        "description": "Matrix Template Library License\nhttps://spdx.org/licenses/MTLL.html",
+        "prefix": "SPDX-MTLL"
+    },
+    "Microsoft Public License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: MS-PL",
+        "description": "Microsoft Public License\nhttps://spdx.org/licenses/MS-PL.html",
+        "prefix": "SPDX-MS-PL"
+    },
+    "Microsoft Reciprocal License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: MS-RL",
+        "description": "Microsoft Reciprocal License\nhttps://spdx.org/licenses/MS-RL.html",
+        "prefix": "SPDX-MS-RL"
+    },
+    "Motosoto License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Motosoto",
+        "description": "Motosoto License\nhttps://spdx.org/licenses/Motosoto.html",
+        "prefix": "SPDX-Motosoto"
+    },
+    "Mozilla Public License 1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: MPL-1.0",
+        "description": "Mozilla Public License 1.0\nhttps://spdx.org/licenses/MPL-1.0.html",
+        "prefix": "SPDX-MPL-1.0"
+    },
+    "Mozilla Public License 1.1": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: MPL-1.1",
+        "description": "Mozilla Public License 1.1\nhttps://spdx.org/licenses/MPL-1.1.html",
+        "prefix": "SPDX-MPL-1.1"
+    },
+    "Mozilla Public License 2.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: MPL-2.0",
+        "description": "Mozilla Public License 2.0\nhttps://spdx.org/licenses/MPL-2.0.html",
+        "prefix": "SPDX-MPL-2.0"
+    },
+    "Mozilla Public License 2.0 (no copyleft exception)": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: MPL-2.0-no-copyleft-exception",
+        "description": "Mozilla Public License 2.0 (no copyleft exception)\nhttps://spdx.org/licenses/MPL-2.0-no-copyleft-exception.html",
+        "prefix": "SPDX-MPL-2.0-no-copyleft-exception"
+    },
+    "Mulan Permissive Software License, Version 1": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: MulanPSL-1.0",
+        "description": "Mulan Permissive Software License, Version 1\nhttps://spdx.org/licenses/MulanPSL-1.0.html",
+        "prefix": "SPDX-MulanPSL-1.0"
+    },
+    "Mulan Permissive Software License, Version 2": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: MulanPSL-2.0",
+        "description": "Mulan Permissive Software License, Version 2\nhttps://spdx.org/licenses/MulanPSL-2.0.html",
+        "prefix": "SPDX-MulanPSL-2.0"
+    },
+    "Multics License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Multics",
+        "description": "Multics License\nhttps://spdx.org/licenses/Multics.html",
+        "prefix": "SPDX-Multics"
+    },
+    "Mup License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Mup",
+        "description": "Mup License\nhttps://spdx.org/licenses/Mup.html",
+        "prefix": "SPDX-Mup"
+    },
+    "NASA Open Source Agreement 1.3": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: NASA-1.3",
+        "description": "NASA Open Source Agreement 1.3\nhttps://spdx.org/licenses/NASA-1.3.html",
+        "prefix": "SPDX-NASA-1.3"
+    },
+    "NIST Public Domain Notice": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: NIST-PD",
+        "description": "NIST Public Domain Notice\nhttps://spdx.org/licenses/NIST-PD.html",
+        "prefix": "SPDX-NIST-PD"
+    },
+    "NIST Public Domain Notice with license fallback": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: NIST-PD-fallback",
+        "description": "NIST Public Domain Notice with license fallback\nhttps://spdx.org/licenses/NIST-PD-fallback.html",
+        "prefix": "SPDX-NIST-PD-fallback"
+    },
+    "NRL License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: NRL",
+        "description": "NRL License\nhttps://spdx.org/licenses/NRL.html",
+        "prefix": "SPDX-NRL"
+    },
+    "NTP License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: NTP",
+        "description": "NTP License\nhttps://spdx.org/licenses/NTP.html",
+        "prefix": "SPDX-NTP"
+    },
+    "NTP No Attribution": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: NTP-0",
+        "description": "NTP No Attribution\nhttps://spdx.org/licenses/NTP-0.html",
+        "prefix": "SPDX-NTP-0"
+    },
+    "Nara Institute of Science and Technology License (2003)": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: NAIST-2003",
+        "description": "Nara Institute of Science and Technology License (2003)\nhttps://spdx.org/licenses/NAIST-2003.html",
+        "prefix": "SPDX-NAIST-2003"
+    },
+    "Naumen Public License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Naumen",
+        "description": "Naumen Public License\nhttps://spdx.org/licenses/Naumen.html",
+        "prefix": "SPDX-Naumen"
+    },
+    "Net Boolean Public License v1": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: NBPL-1.0",
+        "description": "Net Boolean Public License v1\nhttps://spdx.org/licenses/NBPL-1.0.html",
+        "prefix": "SPDX-NBPL-1.0"
+    },
+    "Net-SNMP License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Net-SNMP",
+        "description": "Net-SNMP License\nhttps://spdx.org/licenses/Net-SNMP.html",
+        "prefix": "SPDX-Net-SNMP"
+    },
+    "NetCDF license": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: NetCDF",
+        "description": "NetCDF license\nhttps://spdx.org/licenses/NetCDF.html",
+        "prefix": "SPDX-NetCDF"
+    },
+    "Nethack General Public License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: NGPL",
+        "description": "Nethack General Public License\nhttps://spdx.org/licenses/NGPL.html",
+        "prefix": "SPDX-NGPL"
+    },
+    "Netizen Open Source License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: NOSL",
+        "description": "Netizen Open Source License\nhttps://spdx.org/licenses/NOSL.html",
+        "prefix": "SPDX-NOSL"
+    },
+    "Netscape Public License v1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: NPL-1.0",
+        "description": "Netscape Public License v1.0\nhttps://spdx.org/licenses/NPL-1.0.html",
+        "prefix": "SPDX-NPL-1.0"
+    },
+    "Netscape Public License v1.1": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: NPL-1.1",
+        "description": "Netscape Public License v1.1\nhttps://spdx.org/licenses/NPL-1.1.html",
+        "prefix": "SPDX-NPL-1.1"
+    },
+    "Newsletr License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Newsletr",
+        "description": "Newsletr License\nhttps://spdx.org/licenses/Newsletr.html",
+        "prefix": "SPDX-Newsletr"
+    },
+    "No Limit Public License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: NLPL",
+        "description": "No Limit Public License\nhttps://spdx.org/licenses/NLPL.html",
+        "prefix": "SPDX-NLPL"
+    },
+    "Nokia Open Source License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Nokia",
+        "description": "Nokia Open Source License\nhttps://spdx.org/licenses/Nokia.html",
+        "prefix": "SPDX-Nokia"
+    },
+    "Non-Commercial Government Licence": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: NCGL-UK-2.0",
+        "description": "Non-Commercial Government Licence\nhttps://spdx.org/licenses/NCGL-UK-2.0.html",
+        "prefix": "SPDX-NCGL-UK-2.0"
+    },
+    "Non-Profit Open Software License 3.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: NPOSL-3.0",
+        "description": "Non-Profit Open Software License 3.0\nhttps://spdx.org/licenses/NPOSL-3.0.html",
+        "prefix": "SPDX-NPOSL-3.0"
+    },
+    "Norwegian Licence for Open Government Data (NLOD) 1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: NLOD-1.0",
+        "description": "Norwegian Licence for Open Government Data (NLOD) 1.0\nhttps://spdx.org/licenses/NLOD-1.0.html",
+        "prefix": "SPDX-NLOD-1.0"
+    },
+    "Norwegian Licence for Open Government Data (NLOD) 2.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: NLOD-2.0",
+        "description": "Norwegian Licence for Open Government Data (NLOD) 2.0\nhttps://spdx.org/licenses/NLOD-2.0.html",
+        "prefix": "SPDX-NLOD-2.0"
+    },
+    "Noweb License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Noweb",
+        "description": "Noweb License\nhttps://spdx.org/licenses/Noweb.html",
+        "prefix": "SPDX-Noweb"
+    },
+    "OCLC Research Public License 2.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: OCLC-2.0",
+        "description": "OCLC Research Public License 2.0\nhttps://spdx.org/licenses/OCLC-2.0.html",
+        "prefix": "SPDX-OCLC-2.0"
+    },
+    "OGC Software License, Version 1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: OGC-1.0",
+        "description": "OGC Software License, Version 1.0\nhttps://spdx.org/licenses/OGC-1.0.html",
+        "prefix": "SPDX-OGC-1.0"
+    },
+    "OSET Public License version 2.1": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: OSET-PL-2.1",
+        "description": "OSET Public License version 2.1\nhttps://spdx.org/licenses/OSET-PL-2.1.html",
+        "prefix": "SPDX-OSET-PL-2.1"
+    },
+    "Open CASCADE Technology Public License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: OCCT-PL",
+        "description": "Open CASCADE Technology Public License\nhttps://spdx.org/licenses/OCCT-PL.html",
+        "prefix": "SPDX-OCCT-PL"
+    },
+    "Open Data Commons Attribution License v1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: ODC-By-1.0",
+        "description": "Open Data Commons Attribution License v1.0\nhttps://spdx.org/licenses/ODC-By-1.0.html",
+        "prefix": "SPDX-ODC-By-1.0"
+    },
+    "Open Data Commons Open Database License v1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: ODbL-1.0",
+        "description": "Open Data Commons Open Database License v1.0\nhttps://spdx.org/licenses/ODbL-1.0.html",
+        "prefix": "SPDX-ODbL-1.0"
+    },
+    "Open Data Commons Public Domain Dedication & License 1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: PDDL-1.0",
+        "description": "Open Data Commons Public Domain Dedication & License 1.0\nhttps://spdx.org/licenses/PDDL-1.0.html",
+        "prefix": "SPDX-PDDL-1.0"
+    },
+    "Open Government Licence - Canada": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: OGL-Canada-2.0",
+        "description": "Open Government Licence - Canada\nhttps://spdx.org/licenses/OGL-Canada-2.0.html",
+        "prefix": "SPDX-OGL-Canada-2.0"
+    },
+    "Open Government Licence v1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: OGL-UK-1.0",
+        "description": "Open Government Licence v1.0\nhttps://spdx.org/licenses/OGL-UK-1.0.html",
+        "prefix": "SPDX-OGL-UK-1.0"
+    },
+    "Open Government Licence v2.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: OGL-UK-2.0",
+        "description": "Open Government Licence v2.0\nhttps://spdx.org/licenses/OGL-UK-2.0.html",
+        "prefix": "SPDX-OGL-UK-2.0"
+    },
+    "Open Government Licence v3.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: OGL-UK-3.0",
+        "description": "Open Government Licence v3.0\nhttps://spdx.org/licenses/OGL-UK-3.0.html",
+        "prefix": "SPDX-OGL-UK-3.0"
+    },
+    "Open Group Test Suite License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: OGTSL",
+        "description": "Open Group Test Suite License\nhttps://spdx.org/licenses/OGTSL.html",
+        "prefix": "SPDX-OGTSL"
+    },
+    "Open LDAP Public License 2.2.2": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: OLDAP-2.2.2",
+        "description": "Open LDAP Public License 2.2.2\nhttps://spdx.org/licenses/OLDAP-2.2.2.html",
+        "prefix": "SPDX-OLDAP-2.2.2"
+    },
+    "Open LDAP Public License v1.1": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: OLDAP-1.1",
+        "description": "Open LDAP Public License v1.1\nhttps://spdx.org/licenses/OLDAP-1.1.html",
+        "prefix": "SPDX-OLDAP-1.1"
+    },
+    "Open LDAP Public License v1.2": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: OLDAP-1.2",
+        "description": "Open LDAP Public License v1.2\nhttps://spdx.org/licenses/OLDAP-1.2.html",
+        "prefix": "SPDX-OLDAP-1.2"
+    },
+    "Open LDAP Public License v1.3": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: OLDAP-1.3",
+        "description": "Open LDAP Public License v1.3\nhttps://spdx.org/licenses/OLDAP-1.3.html",
+        "prefix": "SPDX-OLDAP-1.3"
+    },
+    "Open LDAP Public License v1.4": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: OLDAP-1.4",
+        "description": "Open LDAP Public License v1.4\nhttps://spdx.org/licenses/OLDAP-1.4.html",
+        "prefix": "SPDX-OLDAP-1.4"
+    },
+    "Open LDAP Public License v2.0 (or possibly 2.0A and 2.0B)": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: OLDAP-2.0",
+        "description": "Open LDAP Public License v2.0 (or possibly 2.0A and 2.0B)\nhttps://spdx.org/licenses/OLDAP-2.0.html",
+        "prefix": "SPDX-OLDAP-2.0"
+    },
+    "Open LDAP Public License v2.0.1": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: OLDAP-2.0.1",
+        "description": "Open LDAP Public License v2.0.1\nhttps://spdx.org/licenses/OLDAP-2.0.1.html",
+        "prefix": "SPDX-OLDAP-2.0.1"
+    },
+    "Open LDAP Public License v2.1": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: OLDAP-2.1",
+        "description": "Open LDAP Public License v2.1\nhttps://spdx.org/licenses/OLDAP-2.1.html",
+        "prefix": "SPDX-OLDAP-2.1"
+    },
+    "Open LDAP Public License v2.2": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: OLDAP-2.2",
+        "description": "Open LDAP Public License v2.2\nhttps://spdx.org/licenses/OLDAP-2.2.html",
+        "prefix": "SPDX-OLDAP-2.2"
+    },
+    "Open LDAP Public License v2.2.1": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: OLDAP-2.2.1",
+        "description": "Open LDAP Public License v2.2.1\nhttps://spdx.org/licenses/OLDAP-2.2.1.html",
+        "prefix": "SPDX-OLDAP-2.2.1"
+    },
+    "Open LDAP Public License v2.3": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: OLDAP-2.3",
+        "description": "Open LDAP Public License v2.3\nhttps://spdx.org/licenses/OLDAP-2.3.html",
+        "prefix": "SPDX-OLDAP-2.3"
+    },
+    "Open LDAP Public License v2.4": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: OLDAP-2.4",
+        "description": "Open LDAP Public License v2.4\nhttps://spdx.org/licenses/OLDAP-2.4.html",
+        "prefix": "SPDX-OLDAP-2.4"
+    },
+    "Open LDAP Public License v2.5": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: OLDAP-2.5",
+        "description": "Open LDAP Public License v2.5\nhttps://spdx.org/licenses/OLDAP-2.5.html",
+        "prefix": "SPDX-OLDAP-2.5"
+    },
+    "Open LDAP Public License v2.6": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: OLDAP-2.6",
+        "description": "Open LDAP Public License v2.6\nhttps://spdx.org/licenses/OLDAP-2.6.html",
+        "prefix": "SPDX-OLDAP-2.6"
+    },
+    "Open LDAP Public License v2.7": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: OLDAP-2.7",
+        "description": "Open LDAP Public License v2.7\nhttps://spdx.org/licenses/OLDAP-2.7.html",
+        "prefix": "SPDX-OLDAP-2.7"
+    },
+    "Open LDAP Public License v2.8": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: OLDAP-2.8",
+        "description": "Open LDAP Public License v2.8\nhttps://spdx.org/licenses/OLDAP-2.8.html",
+        "prefix": "SPDX-OLDAP-2.8"
+    },
+    "Open Market License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: OML",
+        "description": "Open Market License\nhttps://spdx.org/licenses/OML.html",
+        "prefix": "SPDX-OML"
+    },
+    "Open Public License v1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: OPL-1.0",
+        "description": "Open Public License v1.0\nhttps://spdx.org/licenses/OPL-1.0.html",
+        "prefix": "SPDX-OPL-1.0"
+    },
+    "Open Publication License v1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: OPUBL-1.0",
+        "description": "Open Publication License v1.0\nhttps://spdx.org/licenses/OPUBL-1.0.html",
+        "prefix": "SPDX-OPUBL-1.0"
+    },
+    "Open Software License 1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: OSL-1.0",
+        "description": "Open Software License 1.0\nhttps://spdx.org/licenses/OSL-1.0.html",
+        "prefix": "SPDX-OSL-1.0"
+    },
+    "Open Software License 1.1": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: OSL-1.1",
+        "description": "Open Software License 1.1\nhttps://spdx.org/licenses/OSL-1.1.html",
+        "prefix": "SPDX-OSL-1.1"
+    },
+    "Open Software License 2.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: OSL-2.0",
+        "description": "Open Software License 2.0\nhttps://spdx.org/licenses/OSL-2.0.html",
+        "prefix": "SPDX-OSL-2.0"
+    },
+    "Open Software License 2.1": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: OSL-2.1",
+        "description": "Open Software License 2.1\nhttps://spdx.org/licenses/OSL-2.1.html",
+        "prefix": "SPDX-OSL-2.1"
+    },
+    "Open Software License 3.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: OSL-3.0",
+        "description": "Open Software License 3.0\nhttps://spdx.org/licenses/OSL-3.0.html",
+        "prefix": "SPDX-OSL-3.0"
+    },
+    "Open Use of Data Agreement v1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: O-UDA-1.0",
+        "description": "Open Use of Data Agreement v1.0\nhttps://spdx.org/licenses/O-UDA-1.0.html",
+        "prefix": "SPDX-O-UDA-1.0"
+    },
+    "OpenSSL License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: OpenSSL",
+        "description": "OpenSSL License\nhttps://spdx.org/licenses/OpenSSL.html",
+        "prefix": "SPDX-OpenSSL"
+    },
+    "PHP License v3.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: PHP-3.0",
+        "description": "PHP License v3.0\nhttps://spdx.org/licenses/PHP-3.0.html",
+        "prefix": "SPDX-PHP-3.0"
+    },
+    "PHP License v3.01": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: PHP-3.01",
+        "description": "PHP License v3.01\nhttps://spdx.org/licenses/PHP-3.01.html",
+        "prefix": "SPDX-PHP-3.01"
+    },
+    "PNG Reference Library version 2": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: libpng-2.0",
+        "description": "PNG Reference Library version 2\nhttps://spdx.org/licenses/libpng-2.0.html",
+        "prefix": "SPDX-libpng-2.0"
+    },
+    "Plexus Classworlds License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Plexus",
+        "description": "Plexus Classworlds License\nhttps://spdx.org/licenses/Plexus.html",
+        "prefix": "SPDX-Plexus"
+    },
+    "PolyForm Noncommercial License 1.0.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: PolyForm-Noncommercial-1.0.0",
+        "description": "PolyForm Noncommercial License 1.0.0\nhttps://spdx.org/licenses/PolyForm-Noncommercial-1.0.0.html",
+        "prefix": "SPDX-PolyForm-Noncommercial-1.0.0"
+    },
+    "PolyForm Small Business License 1.0.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: PolyForm-Small-Business-1.0.0",
+        "description": "PolyForm Small Business License 1.0.0\nhttps://spdx.org/licenses/PolyForm-Small-Business-1.0.0.html",
+        "prefix": "SPDX-PolyForm-Small-Business-1.0.0"
+    },
+    "PostgreSQL License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: PostgreSQL",
+        "description": "PostgreSQL License\nhttps://spdx.org/licenses/PostgreSQL.html",
+        "prefix": "SPDX-PostgreSQL"
+    },
+    "Python License 2.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Python-2.0",
+        "description": "Python License 2.0\nhttps://spdx.org/licenses/Python-2.0.html",
+        "prefix": "SPDX-Python-2.0"
+    },
+    "Python Software Foundation License 2.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: PSF-2.0",
+        "description": "Python Software Foundation License 2.0\nhttps://spdx.org/licenses/PSF-2.0.html",
+        "prefix": "SPDX-PSF-2.0"
+    },
+    "Q Public License 1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: QPL-1.0",
+        "description": "Q Public License 1.0\nhttps://spdx.org/licenses/QPL-1.0.html",
+        "prefix": "SPDX-QPL-1.0"
+    },
+    "Qhull License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Qhull",
+        "description": "Qhull License\nhttps://spdx.org/licenses/Qhull.html",
+        "prefix": "SPDX-Qhull"
+    },
+    "RSA Message-Digest License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: RSA-MD",
+        "description": "RSA Message-Digest License\nhttps://spdx.org/licenses/RSA-MD.html",
+        "prefix": "SPDX-RSA-MD"
+    },
+    "Rdisc License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Rdisc",
+        "description": "Rdisc License\nhttps://spdx.org/licenses/Rdisc.html",
+        "prefix": "SPDX-Rdisc"
+    },
+    "RealNetworks Public Source License v1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: RPSL-1.0",
+        "description": "RealNetworks Public Source License v1.0\nhttps://spdx.org/licenses/RPSL-1.0.html",
+        "prefix": "SPDX-RPSL-1.0"
+    },
+    "Reciprocal Public License 1.1": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: RPL-1.1",
+        "description": "Reciprocal Public License 1.1\nhttps://spdx.org/licenses/RPL-1.1.html",
+        "prefix": "SPDX-RPL-1.1"
+    },
+    "Reciprocal Public License 1.5": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: RPL-1.5",
+        "description": "Reciprocal Public License 1.5\nhttps://spdx.org/licenses/RPL-1.5.html",
+        "prefix": "SPDX-RPL-1.5"
+    },
+    "Red Hat eCos Public License v1.1": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: RHeCos-1.1",
+        "description": "Red Hat eCos Public License v1.1\nhttps://spdx.org/licenses/RHeCos-1.1.html",
+        "prefix": "SPDX-RHeCos-1.1"
+    },
+    "Ricoh Source Code Public License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: RSCPL",
+        "description": "Ricoh Source Code Public License\nhttps://spdx.org/licenses/RSCPL.html",
+        "prefix": "SPDX-RSCPL"
+    },
+    "Ruby License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Ruby",
+        "description": "Ruby License\nhttps://spdx.org/licenses/Ruby.html",
+        "prefix": "SPDX-Ruby"
+    },
+    "SCEA Shared Source License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: SCEA",
+        "description": "SCEA Shared Source License\nhttps://spdx.org/licenses/SCEA.html",
+        "prefix": "SPDX-SCEA"
+    },
+    "SGI Free Software License B v1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: SGI-B-1.0",
+        "description": "SGI Free Software License B v1.0\nhttps://spdx.org/licenses/SGI-B-1.0.html",
+        "prefix": "SPDX-SGI-B-1.0"
+    },
+    "SGI Free Software License B v1.1": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: SGI-B-1.1",
+        "description": "SGI Free Software License B v1.1\nhttps://spdx.org/licenses/SGI-B-1.1.html",
+        "prefix": "SPDX-SGI-B-1.1"
+    },
+    "SGI Free Software License B v2.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: SGI-B-2.0",
+        "description": "SGI Free Software License B v2.0\nhttps://spdx.org/licenses/SGI-B-2.0.html",
+        "prefix": "SPDX-SGI-B-2.0"
+    },
+    "SIL Open Font License 1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: OFL-1.0",
+        "description": "SIL Open Font License 1.0\nhttps://spdx.org/licenses/OFL-1.0.html",
+        "prefix": "SPDX-OFL-1.0"
+    },
+    "SIL Open Font License 1.0 with Reserved Font Name": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: OFL-1.0-RFN",
+        "description": "SIL Open Font License 1.0 with Reserved Font Name\nhttps://spdx.org/licenses/OFL-1.0-RFN.html",
+        "prefix": "SPDX-OFL-1.0-RFN"
+    },
+    "SIL Open Font License 1.0 with no Reserved Font Name": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: OFL-1.0-no-RFN",
+        "description": "SIL Open Font License 1.0 with no Reserved Font Name\nhttps://spdx.org/licenses/OFL-1.0-no-RFN.html",
+        "prefix": "SPDX-OFL-1.0-no-RFN"
+    },
+    "SIL Open Font License 1.1": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: OFL-1.1",
+        "description": "SIL Open Font License 1.1\nhttps://spdx.org/licenses/OFL-1.1.html",
+        "prefix": "SPDX-OFL-1.1"
+    },
+    "SIL Open Font License 1.1 with Reserved Font Name": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: OFL-1.1-RFN",
+        "description": "SIL Open Font License 1.1 with Reserved Font Name\nhttps://spdx.org/licenses/OFL-1.1-RFN.html",
+        "prefix": "SPDX-OFL-1.1-RFN"
+    },
+    "SIL Open Font License 1.1 with no Reserved Font Name": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: OFL-1.1-no-RFN",
+        "description": "SIL Open Font License 1.1 with no Reserved Font Name\nhttps://spdx.org/licenses/OFL-1.1-no-RFN.html",
+        "prefix": "SPDX-OFL-1.1-no-RFN"
+    },
+    "SNIA Public License 1.1": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: SNIA",
+        "description": "SNIA Public License 1.1\nhttps://spdx.org/licenses/SNIA.html",
+        "prefix": "SPDX-SNIA"
+    },
+    "SQLite Blessing": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: blessing",
+        "description": "SQLite Blessing\nhttps://spdx.org/licenses/blessing.html",
+        "prefix": "SPDX-blessing"
+    },
+    "SSH OpenSSH license": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: SSH-OpenSSH",
+        "description": "SSH OpenSSH license\nhttps://spdx.org/licenses/SSH-OpenSSH.html",
+        "prefix": "SPDX-SSH-OpenSSH"
+    },
+    "SSH short notice": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: SSH-short",
+        "description": "SSH short notice\nhttps://spdx.org/licenses/SSH-short.html",
+        "prefix": "SPDX-SSH-short"
+    },
+    "Sax Public Domain Notice": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: SAX-PD",
+        "description": "Sax Public Domain Notice\nhttps://spdx.org/licenses/SAX-PD.html",
+        "prefix": "SPDX-SAX-PD"
+    },
+    "Saxpath License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Saxpath",
+        "description": "Saxpath License\nhttps://spdx.org/licenses/Saxpath.html",
+        "prefix": "SPDX-Saxpath"
+    },
+    "Scheme Widget Library (SWL) Software License Agreement": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: SWL",
+        "description": "Scheme Widget Library (SWL) Software License Agreement\nhttps://spdx.org/licenses/SWL.html",
+        "prefix": "SPDX-SWL"
+    },
+    "Secure Messaging Protocol Public License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: SMPPL",
+        "description": "Secure Messaging Protocol Public License\nhttps://spdx.org/licenses/SMPPL.html",
+        "prefix": "SPDX-SMPPL"
+    },
+    "Sendmail License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Sendmail",
+        "description": "Sendmail License\nhttps://spdx.org/licenses/Sendmail.html",
+        "prefix": "SPDX-Sendmail"
+    },
+    "Sendmail License 8.23": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Sendmail-8.23",
+        "description": "Sendmail License 8.23\nhttps://spdx.org/licenses/Sendmail-8.23.html",
+        "prefix": "SPDX-Sendmail-8.23"
+    },
+    "Server Side Public License, v 1": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: SSPL-1.0",
+        "description": "Server Side Public License, v 1\nhttps://spdx.org/licenses/SSPL-1.0.html",
+        "prefix": "SPDX-SSPL-1.0"
+    },
+    "Simple Public License 2.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: SimPL-2.0",
+        "description": "Simple Public License 2.0\nhttps://spdx.org/licenses/SimPL-2.0.html",
+        "prefix": "SPDX-SimPL-2.0"
+    },
+    "Sleepycat License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Sleepycat",
+        "description": "Sleepycat License\nhttps://spdx.org/licenses/Sleepycat.html",
+        "prefix": "SPDX-Sleepycat"
+    },
+    "Solderpad Hardware License v0.5": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: SHL-0.5",
+        "description": "Solderpad Hardware License v0.5\nhttps://spdx.org/licenses/SHL-0.5.html",
+        "prefix": "SPDX-SHL-0.5"
+    },
+    "Solderpad Hardware License, Version 0.51": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: SHL-0.51",
+        "description": "Solderpad Hardware License, Version 0.51\nhttps://spdx.org/licenses/SHL-0.51.html",
+        "prefix": "SPDX-SHL-0.51"
+    },
+    "Spencer License 86": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Spencer-86",
+        "description": "Spencer License 86\nhttps://spdx.org/licenses/Spencer-86.html",
+        "prefix": "SPDX-Spencer-86"
+    },
+    "Spencer License 94": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Spencer-94",
+        "description": "Spencer License 94\nhttps://spdx.org/licenses/Spencer-94.html",
+        "prefix": "SPDX-Spencer-94"
+    },
+    "Spencer License 99": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Spencer-99",
+        "description": "Spencer License 99\nhttps://spdx.org/licenses/Spencer-99.html",
+        "prefix": "SPDX-Spencer-99"
+    },
+    "Standard ML of New Jersey License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: SMLNJ",
+        "description": "Standard ML of New Jersey License\nhttps://spdx.org/licenses/SMLNJ.html",
+        "prefix": "SPDX-SMLNJ"
+    },
+    "SugarCRM Public License v1.1.3": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: SugarCRM-1.1.3",
+        "description": "SugarCRM Public License v1.1.3\nhttps://spdx.org/licenses/SugarCRM-1.1.3.html",
+        "prefix": "SPDX-SugarCRM-1.1.3"
+    },
+    "Sun Industry Standards Source License v1.1": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: SISSL",
+        "description": "Sun Industry Standards Source License v1.1\nhttps://spdx.org/licenses/SISSL.html",
+        "prefix": "SPDX-SISSL"
+    },
+    "Sun Industry Standards Source License v1.2": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: SISSL-1.2",
+        "description": "Sun Industry Standards Source License v1.2\nhttps://spdx.org/licenses/SISSL-1.2.html",
+        "prefix": "SPDX-SISSL-1.2"
+    },
+    "Sun Public License v1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: SPL-1.0",
+        "description": "Sun Public License v1.0\nhttps://spdx.org/licenses/SPL-1.0.html",
+        "prefix": "SPDX-SPL-1.0"
+    },
+    "Sybase Open Watcom Public License 1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Watcom-1.0",
+        "description": "Sybase Open Watcom Public License 1.0\nhttps://spdx.org/licenses/Watcom-1.0.html",
+        "prefix": "SPDX-Watcom-1.0"
+    },
+    "TAPR Open Hardware License v1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: TAPR-OHL-1.0",
+        "description": "TAPR Open Hardware License v1.0\nhttps://spdx.org/licenses/TAPR-OHL-1.0.html",
+        "prefix": "SPDX-TAPR-OHL-1.0"
+    },
+    "TCL/TK License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: TCL",
+        "description": "TCL/TK License\nhttps://spdx.org/licenses/TCL.html",
+        "prefix": "SPDX-TCL"
+    },
+    "TCP Wrappers License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: TCP-wrappers",
+        "description": "TCP Wrappers License\nhttps://spdx.org/licenses/TCP-wrappers.html",
+        "prefix": "SPDX-TCP-wrappers"
+    },
+    "TMate Open Source License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: TMate",
+        "description": "TMate Open Source License\nhttps://spdx.org/licenses/TMate.html",
+        "prefix": "SPDX-TMate"
+    },
+    "TORQUE v2.5+ Software License v1.1": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: TORQUE-1.1",
+        "description": "TORQUE v2.5+ Software License v1.1\nhttps://spdx.org/licenses/TORQUE-1.1.html",
+        "prefix": "SPDX-TORQUE-1.1"
+    },
+    "Taiwan Open Government Data License, version 1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: OGDL-Taiwan-1.0",
+        "description": "Taiwan Open Government Data License, version 1.0\nhttps://spdx.org/licenses/OGDL-Taiwan-1.0.html",
+        "prefix": "SPDX-OGDL-Taiwan-1.0"
+    },
+    "Technische Universitaet Berlin License 1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: TU-Berlin-1.0",
+        "description": "Technische Universitaet Berlin License 1.0\nhttps://spdx.org/licenses/TU-Berlin-1.0.html",
+        "prefix": "SPDX-TU-Berlin-1.0"
+    },
+    "Technische Universitaet Berlin License 2.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: TU-Berlin-2.0",
+        "description": "Technische Universitaet Berlin License 2.0\nhttps://spdx.org/licenses/TU-Berlin-2.0.html",
+        "prefix": "SPDX-TU-Berlin-2.0"
+    },
+    "The MirOS Licence": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: MirOS",
+        "description": "The MirOS Licence\nhttps://spdx.org/licenses/MirOS.html",
+        "prefix": "SPDX-MirOS"
+    },
+    "The Parity Public License 6.0.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Parity-6.0.0",
+        "description": "The Parity Public License 6.0.0\nhttps://spdx.org/licenses/Parity-6.0.0.html",
+        "prefix": "SPDX-Parity-6.0.0"
+    },
+    "The Parity Public License 7.0.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Parity-7.0.0",
+        "description": "The Parity Public License 7.0.0\nhttps://spdx.org/licenses/Parity-7.0.0.html",
+        "prefix": "SPDX-Parity-7.0.0"
+    },
+    "The Unlicense": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Unlicense",
+        "description": "The Unlicense\nhttps://spdx.org/licenses/Unlicense.html",
+        "prefix": "SPDX-Unlicense"
+    },
+    "Trusster Open Source License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: TOSL",
+        "description": "Trusster Open Source License\nhttps://spdx.org/licenses/TOSL.html",
+        "prefix": "SPDX-TOSL"
+    },
+    "Unicode License Agreement - Data Files and Software (2015)": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Unicode-DFS-2015",
+        "description": "Unicode License Agreement - Data Files and Software (2015)\nhttps://spdx.org/licenses/Unicode-DFS-2015.html",
+        "prefix": "SPDX-Unicode-DFS-2015"
+    },
+    "Unicode License Agreement - Data Files and Software (2016)": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Unicode-DFS-2016",
+        "description": "Unicode License Agreement - Data Files and Software (2016)\nhttps://spdx.org/licenses/Unicode-DFS-2016.html",
+        "prefix": "SPDX-Unicode-DFS-2016"
+    },
+    "Unicode Terms of Use": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Unicode-TOU",
+        "description": "Unicode Terms of Use\nhttps://spdx.org/licenses/Unicode-TOU.html",
+        "prefix": "SPDX-Unicode-TOU"
+    },
+    "Universal Permissive License v1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: UPL-1.0",
+        "description": "Universal Permissive License v1.0\nhttps://spdx.org/licenses/UPL-1.0.html",
+        "prefix": "SPDX-UPL-1.0"
+    },
+    "University of Illinois/NCSA Open Source License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: NCSA",
+        "description": "University of Illinois/NCSA Open Source License\nhttps://spdx.org/licenses/NCSA.html",
+        "prefix": "SPDX-NCSA"
+    },
+    "Upstream Compatibility License v1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: UCL-1.0",
+        "description": "Upstream Compatibility License v1.0\nhttps://spdx.org/licenses/UCL-1.0.html",
+        "prefix": "SPDX-UCL-1.0"
+    },
+    "VOSTROM Public License for Open Source": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: VOSTROM",
+        "description": "VOSTROM Public License for Open Source\nhttps://spdx.org/licenses/VOSTROM.html",
+        "prefix": "SPDX-VOSTROM"
+    },
+    "Vim License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Vim",
+        "description": "Vim License\nhttps://spdx.org/licenses/Vim.html",
+        "prefix": "SPDX-Vim"
+    },
+    "Vovida Software License v1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: VSL-1.0",
+        "description": "Vovida Software License v1.0\nhttps://spdx.org/licenses/VSL-1.0.html",
+        "prefix": "SPDX-VSL-1.0"
+    },
+    "W3C Software Notice and Document License (2015-05-13)": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: W3C-20150513",
+        "description": "W3C Software Notice and Document License (2015-05-13)\nhttps://spdx.org/licenses/W3C-20150513.html",
+        "prefix": "SPDX-W3C-20150513"
+    },
+    "W3C Software Notice and License (1998-07-20)": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: W3C-19980720",
+        "description": "W3C Software Notice and License (1998-07-20)\nhttps://spdx.org/licenses/W3C-19980720.html",
+        "prefix": "SPDX-W3C-19980720"
+    },
+    "W3C Software Notice and License (2002-12-31)": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: W3C",
+        "description": "W3C Software Notice and License (2002-12-31)\nhttps://spdx.org/licenses/W3C.html",
+        "prefix": "SPDX-W3C"
+    },
+    "Wsuipa License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Wsuipa",
+        "description": "Wsuipa License\nhttps://spdx.org/licenses/Wsuipa.html",
+        "prefix": "SPDX-Wsuipa"
+    },
+    "X.Net License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Xnet",
+        "description": "X.Net License\nhttps://spdx.org/licenses/Xnet.html",
+        "prefix": "SPDX-Xnet"
+    },
+    "X11 License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: X11",
+        "description": "X11 License\nhttps://spdx.org/licenses/X11.html",
+        "prefix": "SPDX-X11"
+    },
+    "XFree86 License 1.1": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: XFree86-1.1",
+        "description": "XFree86 License 1.1\nhttps://spdx.org/licenses/XFree86-1.1.html",
+        "prefix": "SPDX-XFree86-1.1"
+    },
+    "XPP License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: xpp",
+        "description": "XPP License\nhttps://spdx.org/licenses/xpp.html",
+        "prefix": "SPDX-xpp"
+    },
+    "XSkat License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: XSkat",
+        "description": "XSkat License\nhttps://spdx.org/licenses/XSkat.html",
+        "prefix": "SPDX-XSkat"
+    },
+    "Xerox License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Xerox",
+        "description": "Xerox License\nhttps://spdx.org/licenses/Xerox.html",
+        "prefix": "SPDX-Xerox"
+    },
+    "Yahoo! Public License v1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: YPL-1.0",
+        "description": "Yahoo! Public License v1.0\nhttps://spdx.org/licenses/YPL-1.0.html",
+        "prefix": "SPDX-YPL-1.0"
+    },
+    "Yahoo! Public License v1.1": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: YPL-1.1",
+        "description": "Yahoo! Public License v1.1\nhttps://spdx.org/licenses/YPL-1.1.html",
+        "prefix": "SPDX-YPL-1.1"
+    },
+    "Zed License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Zed",
+        "description": "Zed License\nhttps://spdx.org/licenses/Zed.html",
+        "prefix": "SPDX-Zed"
+    },
+    "Zend License v2.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Zend-2.0",
+        "description": "Zend License v2.0\nhttps://spdx.org/licenses/Zend-2.0.html",
+        "prefix": "SPDX-Zend-2.0"
+    },
+    "Zimbra Public License v1.3": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Zimbra-1.3",
+        "description": "Zimbra Public License v1.3\nhttps://spdx.org/licenses/Zimbra-1.3.html",
+        "prefix": "SPDX-Zimbra-1.3"
+    },
+    "Zimbra Public License v1.4": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Zimbra-1.4",
+        "description": "Zimbra Public License v1.4\nhttps://spdx.org/licenses/Zimbra-1.4.html",
+        "prefix": "SPDX-Zimbra-1.4"
+    },
+    "Zope Public License 1.1": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: ZPL-1.1",
+        "description": "Zope Public License 1.1\nhttps://spdx.org/licenses/ZPL-1.1.html",
+        "prefix": "SPDX-ZPL-1.1"
+    },
+    "Zope Public License 2.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: ZPL-2.0",
+        "description": "Zope Public License 2.0\nhttps://spdx.org/licenses/ZPL-2.0.html",
+        "prefix": "SPDX-ZPL-2.0"
+    },
+    "Zope Public License 2.1": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: ZPL-2.1",
+        "description": "Zope Public License 2.1\nhttps://spdx.org/licenses/ZPL-2.1.html",
+        "prefix": "SPDX-ZPL-2.1"
+    },
+    "bzip2 and libbzip2 License v1.0.5": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: bzip2-1.0.5",
+        "description": "bzip2 and libbzip2 License v1.0.5\nhttps://spdx.org/licenses/bzip2-1.0.5.html",
+        "prefix": "SPDX-bzip2-1.0.5"
+    },
+    "bzip2 and libbzip2 License v1.0.6": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: bzip2-1.0.6",
+        "description": "bzip2 and libbzip2 License v1.0.6\nhttps://spdx.org/licenses/bzip2-1.0.6.html",
+        "prefix": "SPDX-bzip2-1.0.6"
+    },
+    "copyleft-next 0.3.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: copyleft-next-0.3.0",
+        "description": "copyleft-next 0.3.0\nhttps://spdx.org/licenses/copyleft-next-0.3.0.html",
+        "prefix": "SPDX-copyleft-next-0.3.0"
+    },
+    "copyleft-next 0.3.1": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: copyleft-next-0.3.1",
+        "description": "copyleft-next 0.3.1\nhttps://spdx.org/licenses/copyleft-next-0.3.1.html",
+        "prefix": "SPDX-copyleft-next-0.3.1"
+    },
+    "curl License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: curl",
+        "description": "curl License\nhttps://spdx.org/licenses/curl.html",
+        "prefix": "SPDX-curl"
+    },
+    "diffmark license": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: diffmark",
+        "description": "diffmark license\nhttps://spdx.org/licenses/diffmark.html",
+        "prefix": "SPDX-diffmark"
+    },
+    "dvipdfm License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: dvipdfm",
+        "description": "dvipdfm License\nhttps://spdx.org/licenses/dvipdfm.html",
+        "prefix": "SPDX-dvipdfm"
+    },
+    "eGenix.com Public License 1.1.0": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: eGenix",
+        "description": "eGenix.com Public License 1.1.0\nhttps://spdx.org/licenses/eGenix.html",
+        "prefix": "SPDX-eGenix"
+    },
+    "enna License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: MIT-enna",
+        "description": "enna License\nhttps://spdx.org/licenses/MIT-enna.html",
+        "prefix": "SPDX-MIT-enna"
+    },
+    "feh License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: MIT-feh",
+        "description": "feh License\nhttps://spdx.org/licenses/MIT-feh.html",
+        "prefix": "SPDX-MIT-feh"
+    },
+    "gSOAP Public License v1.3b": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: gSOAP-1.3b",
+        "description": "gSOAP Public License v1.3b\nhttps://spdx.org/licenses/gSOAP-1.3b.html",
+        "prefix": "SPDX-gSOAP-1.3b"
+    },
+    "gnuplot License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: gnuplot",
+        "description": "gnuplot License\nhttps://spdx.org/licenses/gnuplot.html",
+        "prefix": "SPDX-gnuplot"
+    },
+    "iMatix Standard Function Library Agreement": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: iMatix",
+        "description": "iMatix Standard Function Library Agreement\nhttps://spdx.org/licenses/iMatix.html",
+        "prefix": "SPDX-iMatix"
+    },
+    "libpng License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Libpng",
+        "description": "libpng License\nhttps://spdx.org/licenses/Libpng.html",
+        "prefix": "SPDX-Libpng"
+    },
+    "libselinux public domain notice": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: libselinux-1.0",
+        "description": "libselinux public domain notice\nhttps://spdx.org/licenses/libselinux-1.0.html",
+        "prefix": "SPDX-libselinux-1.0"
+    },
+    "libtiff License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: libtiff",
+        "description": "libtiff License\nhttps://spdx.org/licenses/libtiff.html",
+        "prefix": "SPDX-libtiff"
+    },
+    "mpich2 License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: mpich2",
+        "description": "mpich2 License\nhttps://spdx.org/licenses/mpich2.html",
+        "prefix": "SPDX-mpich2"
+    },
+    "psfrag License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: psfrag",
+        "description": "psfrag License\nhttps://spdx.org/licenses/psfrag.html",
+        "prefix": "SPDX-psfrag"
+    },
+    "psutils License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: psutils",
+        "description": "psutils License\nhttps://spdx.org/licenses/psutils.html",
+        "prefix": "SPDX-psutils"
+    },
+    "xinetd License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: xinetd",
+        "description": "xinetd License\nhttps://spdx.org/licenses/xinetd.html",
+        "prefix": "SPDX-xinetd"
+    },
+    "zlib License": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: Zlib",
+        "description": "zlib License\nhttps://spdx.org/licenses/Zlib.html",
+        "prefix": "SPDX-Zlib"
+    },
+    "zlib/libpng License with Acknowledgement": {
+        "body": "$LINE_COMMENT SPDX-License-Identifier: zlib-acknowledgement",
+        "description": "zlib/libpng License with Acknowledgement\nhttps://spdx.org/licenses/zlib-acknowledgement.html",
+        "prefix": "SPDX-zlib-acknowledgement"
+    }
+}
